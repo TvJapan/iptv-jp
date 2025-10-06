@@ -66,9 +66,9 @@ https://mt01.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="qvc" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #CS2
-#EXTINF:-1 group-title="CS" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.jpg",Space Shower
+#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.jpg",Space Shower
 https://proxy.utako.moe/ph.php?&isp=6&id=bs26
-#EXTINF:-1 group-title="CS" tvg-id="tbs_ch_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
 https://ca01.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="tbs_ch_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
 https://ca01.utako.moe/tbsch2/index.m3u8
