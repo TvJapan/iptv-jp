@@ -12,7 +12,7 @@ https://proxy.utako.moe/ph.php?&isp=8&id=gd01
 https://proxy.utako.moe/ph.php?&isp=8&id=gd02
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo.svg/2560px-Nippon_TV_logo.svg.png",NTV
 https://proxy.utako.moe/ph.php?&isp=8&id=gd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv-asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
 https://proxy.utako.moe/ph.php?&isp=8&id=gd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
 https://proxy.utako.moe/ph.php?&isp=8&id=gd04
