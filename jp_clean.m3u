@@ -212,9 +212,9 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs04
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs27
-#EXTINF:-1 group-title="CS" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Eisei Gekijo (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="eisei_gekijo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Eisei Gekijo (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs22
-#EXTINF:-1 group-title="CS" tvg-id="family_geki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", Family Gekijyo (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", Family Gekijyo (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs20
 #EXTINF:-1 group-title="CS" tvg-id="movie_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", Movie Plus (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs14
@@ -268,6 +268,7 @@ https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs11
+
 
 
 
