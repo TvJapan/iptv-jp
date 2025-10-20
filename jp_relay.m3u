@@ -110,7 +110,7 @@ https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/bs01
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/bs12
 #EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/bs07
-#EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.svg.png",WOWOW Live (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png",WOWOW Live (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/bs20
 #EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-10-premium-jp.png",BS 10 Premium (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/bs08
@@ -149,7 +149,7 @@ https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+mnet
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+kayopops
 #EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us_2025.png",Disney Channel
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+disneychan
-#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.png",Cartoon Network Japan
+#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-jp.png",Cartoon Network Japan
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+cartoon_network
 #EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",NTV G+
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+ntvgplus
@@ -236,7 +236,7 @@ https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs19
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs28
 #EXTINF:-1 group-title="CS" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs07
-#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.png", Cartoon Network (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-jp.png", Cartoon Network (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs25
 #EXTINF:-1 group-title="CS" tvg-id="natgeo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-us.png", National Geographic Japan (Primehome) 
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs10
@@ -254,6 +254,7 @@ https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs11
+
 
 
 
