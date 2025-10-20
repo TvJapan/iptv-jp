@@ -27,7 +27,7 @@ https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/hdgd06
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/hdgd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo.svg/2560px-Tokyo_metropolitan_television_logo.svg",Tokyo MX1
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/hdgd08
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo.svg/2560px-Tokyo_metropolitan_television_logo.svg",Tokyo MX2
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo.svg/2560px-Tokyo_metropolitan_television_logo.png",Tokyo MX2
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/mt+Tokyo_MX2
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B4-.png",NHK G (Primehome)
@@ -185,7 +185,7 @@ https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+entermei_tele
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+sport_live_plus
 #EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.svg",Home Drama Channel
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+homedrama
-#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.svg",Channel Ginga
+#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-ginga.svg",Channel Ginga
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+gingach
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.svg",Tabi Channel
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+tabi
@@ -214,11 +214,11 @@ https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs01
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs17
 #EXTINF:-1 group-title="CS" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.svg", Golf Network (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs03
-#EXTINF:-1 group-title="CS" tvg-id="ntv_plus" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-g-plus-jp.svg", NTV G+ (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-g-plus-jp.svg", NTV G+ (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs02
 #EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.svg", Mondo TV (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs21
-#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.svg", Channel Ginga (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-ginga.svg", Channel Ginga (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs29
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.svg", Space Shower TV (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/bs26
@@ -252,6 +252,7 @@ https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.svg", TBS News (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs11
+
 
 
 
