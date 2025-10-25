@@ -66,7 +66,7 @@ https://proxyv2.utako.moe/ph.php?&isp=8&id=gd08
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png",NHK BS
 https://us01.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo_2025.svg.png",BS NTV
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo_2025.svg/2560px-BS4_logo_2025.svg.png",BS NTV
 https://us01.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2025/06/oglogo.jpg",BS Asahi
 https://us01.utako.moe/bsasahi/index.m3u8
@@ -78,7 +78,7 @@ https://us01.utako.moe/bstvtokyo/index.m3u8
 https://us01.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-jp_2025.png",BS10
 https://us01.utako.moe/bs10/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
+#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo_2025.svg/2560px-BS11_logo_2025.svg.png",BS11
 https://us01.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp_2025.png",BS12
 https://us01.utako.moe/bs12/index.m3u8
@@ -111,7 +111,7 @@ https://ca01.utako.moe/skya/index.m3u8
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png",NHK BS (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=bs11
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo_2025.svg.png",BS NTV (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo_2025.svg/2560px-BS4_logo_2025.svg.png",BS NTV (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=bs02
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2025/06/oglogo.jpg",BS Asahi (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=bs03
@@ -141,7 +141,7 @@ https://proxyv2.utako.moe/ph.php?&isp=8&id=bs21
 https://proxyv2.utako.moe/ph.php?&isp=8&id=bs22
 #EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp_2025.svg",Green Channel (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=bs14
-#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax_2025.svg.png",Animax (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax_2025.svg/1920px-Animax_2025.svg.png",Animax (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=bs15
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon_2025.png",Nihon Eiga Senmon (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=bs23
@@ -151,18 +151,18 @@ https://proxyv2.utako.moe/ph.php?&isp=8&id=cs01
 https://proxyv2.utako.moe/ph.php?&isp=8&id=bs25
 #EXTINF:-1 group-title="BS" tvg-id="disney_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2025_Disney_Channel_logo.svg/250px-2025_Disney_Channel_logo.svg.png", Disney Channel (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=bs24 
-#EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20251001145119", Jcom BS (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jcom_bs_2025.png", Jcom BS (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=2&id=bs31
 
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp_2025.svg",Gaora Sports
 https://us01.utako.moe/gaora/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo_2025.svg.png",AT-X
+#EXTINF:-1 group-title="CS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo_2025.svg/2560px-AT-X_logo_2025.svg.png",AT-X
 https://us01.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV_2025.jpg",Space Shower TV
 https://ca01.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us_2025.svg",MTV
 https://ca01.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet
+#EXTINF:-1 group-title="CS" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp_2025.png",Mnet
 https://ca01.utako.moe/mnet/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp_2025.svg",Kayo Pops
 https://ca01.utako.moe/kayopops/index.m3u8
@@ -202,9 +202,9 @@ https://ca01.utako.moe/fighting_tv/index.m3u8
 https://ca01.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp_2025.png",Sport Live Plus
 https://ca01.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
+#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp_2025.png",Home Drama Channel
 https://ca01.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
+#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga_2025.png",Channel Ginga
 https://ca01.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel_2025.png",Tabi Channel
 https://ca01.utako.moe/tabi/index.m3u8
@@ -237,9 +237,9 @@ https://proxyv2.utako.moe/ph.php?&isp=8&id=cs17
 https://proxyv2.utako.moe/ph.php?&isp=8&id=cs03
 #EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp_2025.png", NTV G+ (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=cs02
-#EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png", Mondo TV (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp_2025.png", Mondo TV (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=cs21
-#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png", Channel Ginga (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga_2025.png", Channel Ginga (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=2&id=cs29
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV_2025.png", Space Shower TV (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=bs26
@@ -273,4 +273,5 @@ https://proxyv2.utako.moe/ph.php?&isp=8&id=cs16
 https://proxyv2.utako.moe/ph.php?&isp=8&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp_2025.png", TBS News (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=cs11
+
 
