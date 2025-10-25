@@ -219,7 +219,7 @@ https://proxyv2.utako.moe/ph.php?&isp=8&id=cs04
 https://proxyv2.utako.moe/ph.php?&isp=8&id=cs27
 #EXTINF:-1 group-title="CS" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo_2025.png", Eisei Gekijo (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=cs22
-#EXTINF:-1 group-title="CS" tvg-id="family_geki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp_2025.png", Family Gekijyo (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp_2025.png", Family Gekijyo (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=cs20
 #EXTINF:-1 group-title="CS" tvg-id="movie_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp_2025.png", Movie Plus (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=cs14
@@ -273,5 +273,6 @@ https://proxyv2.utako.moe/ph.php?&isp=8&id=cs16
 https://proxyv2.utako.moe/ph.php?&isp=8&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp_2025.png", TBS News (Primehome)
 https://proxyv2.utako.moe/ph.php?&isp=8&id=cs11
+
 
 
