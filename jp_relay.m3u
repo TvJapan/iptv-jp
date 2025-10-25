@@ -28,7 +28,7 @@ https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/hdgd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo-metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/hdgd08
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo-metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX2
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+Tokyo_MX2
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+Tokyo_MX2
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B4-.png",NHK G (Primehome)
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/gd01
@@ -48,41 +48,41 @@ https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/gd07
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/gd08
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.svg.png",NHK BS
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+NHK_BS
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+NHK_BS
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+bsntv
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bsntv
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+bsasahi
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bsasahi
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS.svg/1920px-BS-TBS.svg.png",BS TBS
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+bstbs
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bstbs
 #EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29.svg/1920px-BS_TV_Tokyo_%28Japanese%29.svg.png",BS TV Tokyo
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+bstvtokyo
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bstvtokyo
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/BSFujiSymbol.svg/1280px-BSFujiSymbol.svg.png",BS Fuji
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+bsfuji
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bsfuji
 #EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-10-jp.png",BS10
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+bs10
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bs10
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+BS11
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+BS11
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-12-jp.png",BS12
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+bs12
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bs12
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_logo.svg.png/1920px-NHK_BSP4K_logo.png",NHK BS4K
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+bsp4k
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bsp4k
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+wprime
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+wprime
 #EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+wcinema
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+wcinema
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png",WOWOW Live
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+wlive
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+wlive
 #EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-10-premium-jp.png",BS 10 Premium
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+bs10_star
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+bs10_star
 #EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+js1
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+js1
 #EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+js2
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+js2
 #EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+js3
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+js3
 #EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+js4
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+js4
 #EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green-channel-jp.png",Green Channel
 https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+green
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
@@ -136,9 +136,9 @@ https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/bs24
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/bs31
 
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png",Gaora Sports
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+gaora/
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+gaora/
 #EXTINF:-1 group-title="CS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
-https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+AT-X
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/us+AT-X
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://lyngsat-logo.com/logo/tv/ss/space_shower_tv.png",Space Shower TV
 https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+spaceshower
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us_2025.png",MTV
@@ -254,6 +254,7 @@ https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs11
+
 
 
 
