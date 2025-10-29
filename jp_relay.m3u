@@ -12,21 +12,21 @@ https://mt01.utako.moe:8001/radio
 
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G
-https://zhenix-px02.netgenx.site/iptv/zenxen/master_playlist/hdgd01
+https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd01
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E
-https://zhenix-px02.netgenx.site/iptv/zenxen/master_playlist/hdgd02
+https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd02
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV
-https://zhenix-px02.netgenx.site/iptv/zenxen/master_playlist/hdgd03
+https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd03
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS
-https://zhenix-px02.netgenx.site/iptv/zenxen/master_playlist/hdgd04
+https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd04
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",Fuji TV
-https://zhenix-px02.netgenx.site/iptv/zenxen/master_playlist/hdgd05
+https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",TV Asahi
-https://zhenix-px02.netgenx.site/iptv/zenxen/master_playlist/hdgd06
+https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",TV Tokyo
-https://zhenix-px02.netgenx.site/iptv/zenxen/master_playlist/hdgd07
+https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1",Tokyo MX1
-https://zhenix-px02.netgenx.site/iptv/zenxen/master_playlist/hdgd08
+https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd08
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo-metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX2
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+Tokyo_MX2
 
@@ -254,6 +254,7 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
