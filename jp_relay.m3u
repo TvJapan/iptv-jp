@@ -48,7 +48,7 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd07
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd08
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs",NHK BS
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+NHKBS
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+NHK_BS
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv",BS NTV
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bsntv
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS Asahi
@@ -254,6 +254,7 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
