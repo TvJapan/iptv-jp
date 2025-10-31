@@ -60,11 +60,11 @@ https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bstvtokyo
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS Fuji
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bsfuji
 #EXTINF:-1 group-title="BS" tvg-id="bs10",BS10
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bs10
+https://zhx-player.netgenx.site/stream/stream_bs10.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11",BS11
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+BS11
 #EXTINF:-1 group-title="BS" tvg-id="bs12",BS12
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bs12
+https://zhx-player.netgenx.site/stream/stream_bs12.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k",NHK BS4K
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bsp4k
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime",WOWOW Prime
@@ -256,6 +256,7 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
