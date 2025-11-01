@@ -1,14 +1,13 @@
 #EXTM3U url-tvg="https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=id_1,https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=jp_1,https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=jp_2" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/2OINFaA.png",We need donations to maintain the server! | サーバー維持のため寄付募集中！
-https://mt01.utako.moe:8001/radio
+http://mt01.utako.moe:8001/radio
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://paypal.me/Tieptran1970
-https://mt01.utako.moe:8001/radio
+http://mt01.utako.moe:8001/radio
 #EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", Please refrain from re-sharing those URLs! Read github for details.
-https://mt01.utako.moe:8001/radio
+http://mt01.utako.moe:8001/radio
 #EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", 「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubのREADME
-https://mt01.utako.moe:8001/radio
-
+http://mt01.utako.moe:8001/radio
 
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G
@@ -48,43 +47,43 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd07
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd08
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs",NHK BS
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+NHK_BS
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+NHK_BS
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv",BS NTV
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bsntv
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bsntv
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS Asahi
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bsasahi
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bsasahi
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs",BS TBS
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bstbs
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bstbs
 #EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo",BS TV Tokyo
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bstvtokyo
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bstvtokyo
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS Fuji
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bsfuji
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bsfuji
 #EXTINF:-1 group-title="BS" tvg-id="bs10",BS10
 https://zhx-player.netgenx.site/stream/stream_bs10.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11",BS11
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+BS11
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+BS11
 #EXTINF:-1 group-title="BS" tvg-id="bs12",BS12
 https://zhx-player.netgenx.site/stream/stream_bs12.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k",NHK BS4K
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bsp4k
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bsp4k
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime",WOWOW Prime
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+wprime
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+wprime
 #EXTINF:-1 group-title="BS" tvg-id="wowow_cinema",WOWOW Cinema
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+wcinema
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+wcinema
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live",WOWOW Live
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+wlive
 #EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel",BS10 Premium
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+bs10_star
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bs10_star
 #EXTINF:-1 group-title="BS" tvg-id="js1",JSport 1
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+js1
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+js1
 #EXTINF:-1 group-title="BS" tvg-id="js2",JSport 2
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+js2
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+js2
 #EXTINF:-1 group-title="BS" tvg-id="js3",JSport 3
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+js3
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+js3
 #EXTINF:-1 group-title="BS" tvg-id="js4",JSport 4
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+js4
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+js4
 #EXTINF:-1 group-title="BS" tvg-id="green_channel",Green Channel
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/mt+green
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+green
 #EXTINF:-1 group-title="BS" tvg-id="animax",Animax
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+Animax
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga",Nihon Eiga Senmon
@@ -136,9 +135,9 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/bs24
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/bs31
 
 #EXTINF:-1 group-title="CS" tvg-id=gaora",Gaora Sports
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+gaora/
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+gaora/
 #EXTINF:-1 group-title="CS" tvg-id="at_x",AT-X
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+AT-X
+https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+AT-X
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv",Space Shower TV
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+spaceshower
 #EXTINF:-1 group-title="CS" tvg-id="mtv",MTV
@@ -256,6 +255,7 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
