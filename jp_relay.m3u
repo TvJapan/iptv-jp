@@ -47,49 +47,49 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd07
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/gd08
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs",NHK BS
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+NHK_BS
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+NHK_BS
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv",BS NTV
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bsntv
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bsntv
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS Asahi
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bsasahi
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bsasahi
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs",BS TBS
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bstbs
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bstbs
 #EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo",BS TV Tokyo
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bstvtokyo
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bstvtokyo
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS Fuji
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bsfuji
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bsfuji
 #EXTINF:-1 group-title="BS" tvg-id="bs10",BS10
 https://zhx-player.netgenx.site/stream/stream_bs10.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11",BS11
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+BS11
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+BS11
 #EXTINF:-1 group-title="BS" tvg-id="bs12",BS12
 https://zhx-player.netgenx.site/stream/stream_bs12.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k",NHK BS4K
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bsp4k
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bsp4k
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime",WOWOW Prime
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+wprime
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+wprime
 #EXTINF:-1 group-title="BS" tvg-id="wowow_cinema",WOWOW Cinema
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+wcinema
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+wcinema
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live",WOWOW Live
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/us+wlive
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/us+wlive
 #EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel",BS10 Premium
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+bs10_star
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bs10_star
 #EXTINF:-1 group-title="BS" tvg-id="js1",JSport 1
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+js1
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js1
 #EXTINF:-1 group-title="BS" tvg-id="js2",JSport 2
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+js2
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js2
 #EXTINF:-1 group-title="BS" tvg-id="js3",JSport 3
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+js3
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js3
 #EXTINF:-1 group-title="BS" tvg-id="js4",JSport 4
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+js4
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js4
 #EXTINF:-1 group-title="BS" tvg-id="green_channel",Green Channel
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+green
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+green
 #EXTINF:-1 group-title="BS" tvg-id="animax",Animax
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+Animax
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+Animax
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga",Nihon Eiga Senmon
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+nihoneiga
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+nihoneiga
 #EXTINF:-1 group-title="BS" tvg-id="sky_a",Sky A
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+sky-a
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+sky-a
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs",NHK BS (Primehome)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/bs11
@@ -135,9 +135,9 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/bs24
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/bs31
 
 #EXTINF:-1 group-title="CS" tvg-id=gaora",Gaora Sports
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+gaora/
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+gaora/
 #EXTINF:-1 group-title="CS" tvg-id="at_x",AT-X
-https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+AT-X
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+AT-X
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv",Space Shower TV
 https://zhenix-px02.netgenx.site/iptv/luongz/master_playlist/nl+spaceshower
 #EXTINF:-1 group-title="CS" tvg-id="mtv",MTV
@@ -255,6 +255,7 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
