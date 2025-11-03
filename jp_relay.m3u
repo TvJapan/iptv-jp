@@ -27,7 +27,7 @@ https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1",Tokyo MX1
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd08
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" ,Tokyo MX2
-https://zhenix-px03.netgenx.site/iptv/luongz/master_playlist/us+Tokyo_MX2
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+Tokyo_MX2
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G (Primehome)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd01
@@ -79,7 +79,7 @@ https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js1
 #EXTINF:-1 group-title="BS" tvg-id="js2",JSport 2
 https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js2
 #EXTINF:-1 group-title="BS" tvg-id="js3",JSport 3
-https://zhenix-px03.netgenx.site/iptv/luongz/master_playlist/nl+js3
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js3
 #EXTINF:-1 group-title="BS" tvg-id="js4",JSport 4
 https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js4
 #EXTINF:-1 group-title="BS" tvg-id="green_channel",Green Channel
@@ -257,6 +257,7 @@ https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
