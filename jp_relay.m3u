@@ -143,7 +143,7 @@ https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+spaceshower
 #EXTINF:-1 group-title="CS" tvg-id="mtv",MTV
 https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+mtv
 #EXTINF:-1 group-title="CS" tvg-id="mnet",Mnet
-https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+mnet
+https://zhx-player.netgenx.stream/stream_mnet.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kayo_pops",Kayo Pops
 https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+kayopops
 #EXTINF:-1 group-title="CS" tvg-id="disney_channel",Disney Channel
@@ -257,6 +257,7 @@ https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
