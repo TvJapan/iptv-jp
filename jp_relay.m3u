@@ -10,12 +10,18 @@ http://mt01.utako.moe:8001/radio
 http://mt01.utako.moe:8001/radio
 
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G(FHD)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E(FHD)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd02
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV(FHD)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd03
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd01
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK_E
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd02
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd03
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",TV_Asahi
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS
@@ -257,6 +263,7 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
