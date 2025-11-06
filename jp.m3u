@@ -176,7 +176,7 @@ https://nl00.utako.moe/familygeki/index.m3u8
 https://nl00.utako.moe/mondo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv_2025.png",Music On TV
 https://nl00.utako.moe/musicon/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="m_net" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp_2025.png",Mnet
+#EXTINF:-1 group-title="CS" tvg-id="m_net" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp_2025.png",M net
 https://nl00.utako.moe/mnet/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp_2025.png",TBS Channel 1
 https://nl00.utako.moe/tbsch1/index.m3u8
@@ -219,7 +219,7 @@ https://nl00.utako.moe/v_paradise/index.m3u8
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs04
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel_2025.png", Toei Channel (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs27
-#EXTINF:-1 group-title="CS" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo_2025.png", Eisei Gekijo (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="eisei_gekijo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo_2025.png", Eisei Gekijo (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs22
 #EXTINF:-1 group-title="CS" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp_2025.png", Family Gekijyo (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs20
@@ -275,6 +275,7 @@ https://proxyvn.utako.moe/ph.php?&isp=8&id=cs16
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp_2025.png", TBS News (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs11
+
 
 
 
