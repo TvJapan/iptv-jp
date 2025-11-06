@@ -175,9 +175,9 @@ https://nl00.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp_2025.png",Mondo TV
 https://nl00.utako.moe/mondo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv_2025.png",Music On TV
-https://n100.utako.moe/musicon/index.m3u8
+https://nl00.utako.moe/musicon/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="m_net" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp_2025.png",Mnet
-https://n100.utako.moe/mnet/index.m3u8
+https://nl00.utako.moe/mnet/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp_2025.png",TBS Channel 1
 https://nl00.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp_2025.png",TBS Channel 2
@@ -275,6 +275,7 @@ https://proxyvn.utako.moe/ph.php?&isp=8&id=cs16
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp_2025.png", TBS News (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs11
+
 
 
 
