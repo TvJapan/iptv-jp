@@ -162,11 +162,9 @@ https://nl00.utako.moe/AT-X/index.m3u8
 https://nl00.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us_2025.svg",MTV
 https://nl00.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp_2025.png",Mnet
-https://nl00.utako.moe/mnet/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp_2025.svg",Kayo Pops
+#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp_2025.png",Kayo Pops
 https://nl00.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us_2025.svg",Disney Channel
+#EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disny-channel-jp_2025.svg",Disney Channel
 https://nl00.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us_2025.svg",Cartoon Network Japan
 https://nl00.utako.moe/cartoon_network/index.m3u8
@@ -176,6 +174,10 @@ https://nl00.utako.moe/ntvgplus/index.m3u8
 https://nl00.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp_2025.png",Mondo TV
 https://nl00.utako.moe/mondo/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv_2025.png",Music On TV
+https://n100.utako.moe/musicon/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="m_net" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp_2025.png",Mnet
+https://n100.utako.moe/mnet/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp_2025.png",TBS Channel 1
 https://nl00.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp_2025.png",TBS Channel 2
@@ -273,6 +275,7 @@ https://proxyvn.utako.moe/ph.php?&isp=8&id=cs16
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp_2025.png", TBS News (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs11
+
 
 
 
