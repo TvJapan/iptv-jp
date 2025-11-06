@@ -65,11 +65,11 @@ https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bstvtokyo
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS Fuji
 https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bsfuji
 #EXTINF:-1 group-title="BS" tvg-id="bs10",BS10
-https://zhx-player.netgenx.site/stream/stream_bs10.m3u8
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bs10
 #EXTINF:-1 group-title="BS" tvg-id="bs11",BS11
 https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+BS11
 #EXTINF:-1 group-title="BS" tvg-id="bs12",BS12
-https://zhx-player.netgenx.site/stream/stream_bs12.m3u8
+https://zhenix-px.netgenx.site/iptv/luongz/master_playiist/nl+BS12
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k",NHK BS4K
 https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bsp4k
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime",WOWOW Prime
@@ -149,7 +149,7 @@ https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+spaceshower
 #EXTINF:-1 group-title="CS" tvg-id="mtv",MTV
 https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+mtv
 #EXTINF:-1 group-title="CS" tvg-id="mnet",Mnet
-https://zhx-player.netgenx.stream/stream_mnet.m3u8
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+mnet
 #EXTINF:-1 group-title="CS" tvg-id="kayo_pops",Kayo Pops
 https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+kayopops
 #EXTINF:-1 group-title="CS" tvg-id="disney_channel",Disney Channel
@@ -195,7 +195,7 @@ https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+gingach
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel",Tabi Channel
 https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+tabi
 #EXTINF:-1 group-title="CS" tvg-id="music_on_tv",Music On! TV
-https://zhx-player.netgenx.site/stream/stream_mon.m3u8
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+musicon
 #EXTINF:-1 group-title="CS" tvg-id="shop_channel",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="qvc",QVC
@@ -263,6 +263,7 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
