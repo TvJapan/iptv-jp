@@ -129,7 +129,7 @@ https://zhx-stream.netgenx.site/iptv/zhenxen/master_playlist/bs24
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs",Jcom BS (Primehome)
 https://zhx-stream.netgenx.site/iptv/zhenxen/master_playlist/bs31
 
-#EXTINF:-1 group-title="CS" tvg-id=gaora",Gaora Sports
+#EXTINF:-1 group-title="CS" tvg-id="gaora",Gaora Sports
 https://zhx-stream.netgenx.site/iptv/luongz/master_playlist/nl+gaora/
 #EXTINF:-1 group-title="CS" tvg-id="at_x",AT-X
 https://zhx-stream.netgenx.site/iptv/luongz/master_playlist/nl+AT-X
@@ -252,6 +252,7 @@ https://zhx-stream.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhx-stream.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhx-stream.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
