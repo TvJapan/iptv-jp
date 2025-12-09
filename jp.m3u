@@ -180,7 +180,7 @@ https://nl.utako.moe/mondo/index.m3u8
 https://nl.utako.moe/musicon/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="m_net" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp_2025.png",Mnet
 https://nl.utako.moe/mnet/index.m3u8
-EXTINF:-1 group-title="CS" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp_2025.png",Golf Network
+#EXTINF:-1 group-title="CS" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp_2025.png",Golf Network
 https://nl.utako.moe/golf_network/index.m3u8
 EXTINF:-1 group-title="CS" tvg-id="the_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-cinema-jp_2025.png",The Cinema
 https://nl.utako.moe/the_cinema/index.m3u8
@@ -281,6 +281,7 @@ https://proxyvn.utako.moe/ph.php?&isp=8&id=cs16
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp_2025.png", TBS News (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=8&id=cs11
+
 
 
 
