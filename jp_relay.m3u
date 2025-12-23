@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=jp_1,https://niba02.nanobi.site/epg/tv_epg.xml?region=jp_2" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://zhx-stream.netgenx.site/epg/tv_epg.xml?region=jp_1,https://zhx-stream.netgenx.site/epg/tv_epg.xml?region=jp_2" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://paypal.me/Tieptran1970
 https://zhx-player.netgenx.site/novid/hls/radio_stream.m3u8
@@ -12,7 +12,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd02
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd03
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",TV_Asahi
-https://zhenix-px.newgenx.site/live_stream/zhenxen/master_playlist/hdgd06
+https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd04
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",TV Tokyo
@@ -258,6 +258,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs16
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
