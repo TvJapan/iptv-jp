@@ -54,11 +54,11 @@ https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bstvtokyo
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS Fuji
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bsfuji
 #EXTINF:-1 group-title="BS" tvg-id="bs10",BS10
-http://127.0.0.1:19395/51.81.135.253:16000/stream/{token}/5abd5e979a248aba06b8980f98fe7761/master.m3u8
+https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bs10
 #EXTINF:-1 group-title="BS" tvg-id="bs11",BS11
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+BS11
 #EXTINF:-1 group-title="BS" tvg-id="bs12",BS12
-http://127.0.0.1:19395/51.81.135.253:16000/stream/{token}/186ccc8d7eb628a448a68d5d348fb54a/master.m3u8
+https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+BS12
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k",NHK BS4K
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bsp4k
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime",WOWOW Prime
@@ -252,12 +252,13 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs08
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs24
 #EXTINF:-1 group-title="CS" tvg-id="history_channel",History (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs09
-#EXTINF:-1 group-title="CS" tvg-id="cnn_j",CNNj (Primehome) 
+#EXTINF:-1 group-title="CS" tvg-id="cnnj",CNNj (Primehome) 
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs16
 #EXTINF:-1 group-title="CS" tvg-id="bbc_news",BBC News (Primehome)  
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
