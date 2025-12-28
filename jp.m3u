@@ -30,37 +30,37 @@ https://nl.utako.moe/Tokyo_MX1/index.m3u8
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.png",NHK G HD (Primehome)
-https://23.88.76.237:5002/hdgd01.m3u8?token=d4c9104f316a9715b0fd06c25e863e80ca6db9c82e367c41e9a775b1428c27f5&gid=hdgd01&channel=zyongying
+http://23.88.76.237:5002/hdgd01.m3u8?token=d4c9104f316a9715b0fd06c25e863e80ca6db9c82e367c41e9a775b1428c27f5&gid=hdgd01&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.png",NHK E HD (Primehome)
-https://49.12.135.136:5002/hdgd02.m3u8?token=31905c0fd8eeec7074798b75307e5208150e4ab46f83be9a278688ac28ac1d0&gid=hdgd02&channel=zyongying
+http://49.12.135.136:5002/hdgd02.m3u8?token=31905c0fd8eeec7074798b75307e5208150e4ab46f83be9a278688ac28ac1d0&gid=hdgd02&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_Television_logo_2025.svg/2560px-Nippon_Television_logo_2025.svg.png",NTV HD (Primehome)
-https://103.255.250.194:5002/hdgd03.m3u8?token=1dc672b54833fee4ca6cc1640b3f7416c366c50b1788efd25c0607ccc45be920&gid=hdgd03&channel=zyongying
+http://103.255.250.194:5002/hdgd03.m3u8?token=1dc672b54833fee4ca6cc1640b3f7416c366c50b1788efd25c0607ccc45be920&gid=hdgd03&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png",TBS HD (Primehome)
-https://103.255.250.194:5002/hdgd04.m3u8?token=977b3bf52696b74001c774740b9d61afa4af935fd8b21292229f94c0575b9f43&gid=hdgd04&channel=zyongying
+http://103.255.250.194:5002/hdgd04.m3u8?token=977b3bf52696b74001c774740b9d61afa4af935fd8b21292229f94c0575b9f43&gid=hdgd04&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_Television_logo.svg/1049px-Fuji_Television_logo_2025.svg.png",Fuji TV HD (Primehome)
-https://103.255.250.194:5002/hdgd05.m3u8?token=d9a6f5a5659353a1fbf465c41774bbcc211bd4c0ce3b2dddb18a4e17a3944fd8&gid=hdgd05&channel=zyongying
+http://103.255.250.194:5002/hdgd05.m3u8?token=d9a6f5a5659353a1fbf465c41774bbcc211bd4c0ce3b2dddb18a4e17a3944fd8&gid=hdgd05&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo.svg/2560px-TV_Asahi_logo_2025.svg.png",TV Asahi HD (Primehome)
-https://103.255.250.194:5002/hdgd06.m3u8?token=f8ecbf85d48651e375257c7290f642a95dee703416676bba84807aa4d6a5ffde&gid=hdgd06&channel=zyongying
+http://103.255.250.194:5002/hdgd06.m3u8?token=f8ecbf85d48651e375257c7290f642a95dee703416676bba84807aa4d6a5ffde&gid=hdgd06&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png",TV Tokyo HD (Primehome)
-https://103.255.250.194:5002/hdgd07.m3u8?token=1ca7ca77aa446a6f4591f91bafd6181e78fac6a2e797579f155e56f9dc736ca0&gid=hdgd07&channel=zyongying
+http://103.255.250.194:5002/hdgd07.m3u8?token=1ca7ca77aa446a6f4591f91bafd6181e78fac6a2e797579f155e56f9dc736ca0&gid=hdgd07&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png",Tokyo MX1 HD (Primehome)
-https://103.255.250.194:5002/hdgd08.m3u8?token=070f3daea45361de5f351cb0e436cbfbf3ec24c96dc80ba9b5ef2f737534d996&gid=hdgd08&channel=zyongying
+http://103.255.250.194:5002/hdgd08.m3u8?token=070f3daea45361de5f351cb0e436cbfbf3ec24c96dc80ba9b5ef2f737534d996&gid=hdgd08&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.png",NHK G (Primehome)
-https://23.88.76.237:5002/gd01.m3u8?token=d4c9104f316a9715b0fd06c25e863e80ca6db9c82e367c41e9a775b1428c27f5&gid=gd01&channel=zyongying
+http://23.88.76.237:5002/gd01.m3u8?token=d4c9104f316a9715b0fd06c25e863e80ca6db9c82e367c41e9a775b1428c27f5&gid=gd01&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.png",NHK E (Primehome)
-https://49.12.135.136:5002/gd02.m3u8?token=31905c0fd8eeec7074798b75307e5208150e4ab46f83be9a278688ac28ac1d0&gid=gd02&channel=zyongying
+http://49.12.135.136:5002/gd02.m3u8?token=31905c0fd8eeec7074798b75307e5208150e4ab46f83be9a278688ac28ac1d0&gid=gd02&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_Television_logo_2025.svg/2560px-Nippon_Television_logo_2025.svg.png",NTV (Primehome)
-https://103.255.250.194:5002/gd03.m3u8?token=1dc672b54833fee4ca6cc1640b3f7416c366c50b1788efd25c0607ccc45be920&gid=gd03&channel=zyongying
+http://103.255.250.194:5002/gd03.m3u8?token=1dc672b54833fee4ca6cc1640b3f7416c366c50b1788efd25c0607ccc45be920&gid=gd03&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png",TBS (Primehome)
-https://103.255.250.194:5002/gd04.m3u8?token=977b3bf52696b74001c774740b9d61afa4af935fd8b21292229f94c0575b9f43&gid=gd04&channel=zyongying
+http://103.255.250.194:5002/gd04.m3u8?token=977b3bf52696b74001c774740b9d61afa4af935fd8b21292229f94c0575b9f43&gid=gd04&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_Television_logo_2025.svg/1049px-Fuji_Television_logo_2025.svg.png",Fuji TV (Primehome)
-https://103.255.250.194:5002/gd05.m3u8?token=d9a6f5a5659353a1fbf465c41774bbcc211bd4c0ce3b2dddb18a4e17a3944fd8&gid=gd05&channel=zyongying
+http://103.255.250.194:5002/gd05.m3u8?token=d9a6f5a5659353a1fbf465c41774bbcc211bd4c0ce3b2dddb18a4e17a3944fd8&gid=gd05&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo_2025.svg/2560px-TV_Asahi_logo_2025.svg.png",TV Asahi (Primehome)
-https://103.255.250.194:5002/gd06.m3u8?token=f8ecbf85d48651e375257c7290f642a95dee703416676bba84807aa4d6a5ffde&gid=gd06&channel=zyongying
+http://103.255.250.194:5002/gd06.m3u8?token=f8ecbf85d48651e375257c7290f642a95dee703416676bba84807aa4d6a5ffde&gid=gd06&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png",TV Tokyo (Primehome)
-https://103.255.250.194:5002/gd07.m3u8?token=1ca7ca77aa446a6f4591f91bafd6181e78fac6a2e797579f155e56f9dc736ca0&gid=gd07&channel=zyongying
+http://103.255.250.194:5002/gd07.m3u8?token=1ca7ca77aa446a6f4591f91bafd6181e78fac6a2e797579f155e56f9dc736ca0&gid=gd07&channel=zyongying
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png",Tokyo MX1 (Primehome)
-https://103.255.250.194:5002/gd08.m3u8?token=070f3daea45361de5f351cb0e436cbfbf3ec24c96dc80ba9b5ef2f737534d996&gid=gd08&channel=zyongying
+http://103.255.250.194:5002/gd08.m3u8?token=070f3daea45361de5f351cb0e436cbfbf3ec24c96dc80ba9b5ef2f737534d996&gid=gd08&channel=zyongying
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
@@ -279,6 +279,7 @@ https://proxysg.utako.moe/ph.php?&isp=8&id=cs16
 https://proxysg.utako.moe/ph.php?&isp=8&id=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp_2025.png", TBS News (Primehome)
 https://proxysg.utako.moe/ph.php?&isp=8&id=cs11
+
 
 
 
