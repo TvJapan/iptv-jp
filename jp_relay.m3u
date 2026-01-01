@@ -11,7 +11,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd01
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd02
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",TV_Asahi
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",TV Asahi
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd04
@@ -202,7 +202,7 @@ https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs04
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel",Toei Channel (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs27
-#EXTINF:-1 group-title="CS" tvg-id="eisei_gekijo",Eisei Gekijo (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="eiseigekijo",Eisei Gekijo (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs22
 #EXTINF:-1 group-title="CS" tvg-id="family_gekijo",Family Gekijyo (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs20
@@ -258,6 +258,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs16
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
