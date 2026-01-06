@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.freejptv.com/epg/tv_epg.xml?region=jp_1,https://zhx-stream.netgenx.site/epg/tv_epg.xml?region=jp_2" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=jp_1,https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=jp_2" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://paypal.me/Tieptran1970
 https://zhx-player.netgenx.site/novid/hls/radio_stream.m3u8
@@ -149,7 +149,7 @@ https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+kayopops
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+kids_station
 #EXTINF:-1 group-title="CS" tvg-id="disney_channel",Disney Channel
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+disneychan
-#EXTINF:-1 group-title="CS" tvg-id="cartoon_network",cartoon Network Japan
+#EXTINF:-1 group-title="CS" tvg-id="cartoon_network",Cartoon Network Japan
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+cartoon_network
 #EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu",NTV G+
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+ntvgplus
@@ -181,7 +181,7 @@ https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+toei
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+fighting_tv
 #EXTINF:-1 group-title="CS" tvg-id="entermei_tele",Entermei Tele
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+entermei_tele
-#EXTINF:-1 group-title="CS" tvg-id="sports_live_plus",Sport Live Plus
+#EXTINF:-1 group-title="CS" tvg-id="sport_live_plus",Sport Live Plus
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+sport_live_plus
 #EXTINF:-1 group-title="CS" tvg-id="home_drama",Home Drama Channel
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+homedrama
@@ -258,6 +258,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs16
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
