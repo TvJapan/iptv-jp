@@ -88,7 +88,7 @@ https://nl.utako.moe/wprime/index.m3u8
 https://nl.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live_2026.png",WOWOW Live
 https://nl.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs10.jp" tvg-logo="https://www.jcom.co.jp/service/tv/options_ch/images_v10/logo/logo_bs10premium_short_2026.png",BS 10 Premium
+#EXTINF:-1 group-title="BS" tvg-id="bs10.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp_2026.png",BS 10 Premium
 https://nl.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo_2026.jpg",JSport 1
 https://nl.utako.moe/js1/index.m3u8
@@ -127,7 +127,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live_2026.png",WOWOW Live (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 group-title="BS" tvg-id="bs10.jp" tvg-logo="https://www.jcom.co.jp/service/tv/options_ch/images_v10/logo/logo_bs10premium_short_2026.png",BS 10 Premium (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="bs10.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.2026.png",BS 10 Premium (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jsports1-jp_2026.png",JSport 1 (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
@@ -279,6 +279,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp_2026.png", TBS News (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
