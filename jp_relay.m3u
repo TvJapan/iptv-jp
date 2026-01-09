@@ -5,71 +5,71 @@ https://zhx-player.netgenx.site/novid/hls/radio_stream.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="",This is a relay playlist
 https://zhx-player.netgenx.site/novid/hls/radio_stream.m3u8
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHK総合_東京",NHK G
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHK教育_東京",NHK E
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd02
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV
+#EXTINF:-1 group-title="Tokyo" tvg-id="日本テレビ",NTV
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",TV Asahi
+#EXTINF:-1 group-title="Tokyo" tvg-id="テレビ朝日",TV Asahi
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd06
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS
+#EXTINF:-1 group-title="Tokyo" tvg-id="TBS",TBS
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd04
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",TV Tokyo
+#EXTINF:-1 group-title="Tokyo" tvg-id="テレビ東京",TV Tokyo
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd07
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",Fuji TV
+#EXTINF:-1 group-title="Tokyo" tvg-id="フジテレビジョン",Fuji TV
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd05
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1",Tokyo MX1
+#EXTINF:-1 group-title="Tokyo" tvg-id="TOKYO_MX",Tokyo MX1
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/hdgd08
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" ,Tokyo MX2
+#EXTINF:-1 group-title="Tokyo" tvg-id="TOKYO_MX",Tokyo MX2
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+Tokyo_MX2
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G (Primehome)
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHK総合_東京",NHK G (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E (Primehome)
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHK教育_東京",NHK E (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd02
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV (Primehome)
+#EXTINF:-1 group-title="Tokyo" tvg-id="日本テレビ",NTV (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",TV Asahi (Primehome)
+#EXTINF:-1 group-title="Tokyo" tvg-id="テレビ朝日",TV Asahi (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd06
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS (Primehome)
+#EXTINF:-1 group-title="Tokyo" tvg-id="TBS",TBS (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd04
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",TV Tokyo (Primehome)
+#EXTINF:-1 group-title="Tokyo" tvg-id="テレビ東京",TV Tokyo (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd07
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",Fuji TV (Primehome)
+#EXTINF:-1 group-title="Tokyo" tvg-id="フジテレビジョン",Fuji TV (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd05
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1",Tokyo MX1 (Primehome)
+#EXTINF:-1 group-title="Tokyo" tvg-id="TOKYO_MX",Tokyo MX1 (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd08
 
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs",NHK BS
+#EXTINF:-1 group-title="BS" tvg-id="NHK_BS",NHK BS
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+NHK_BS
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv",BS NTV
+#EXTINF:-1 group-title="BS" tvg-id="BS日テレ",BS NTV
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bsntv
-#EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS Asahi
+#EXTINF:-1 group-title="BS" tvg-id="BS朝日",BS Asahi
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bsasahi
-#EXTINF:-1 group-title="BS" tvg-id="bs_tbs",BS TBS
+#EXTINF:-1 group-title="BS" tvg-id="BS_TBS",BS TBS
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bstbs
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo",BS TV Tokyo
+#EXTINF:-1 group-title="BS" tvg-id="BSテレ東",BS TV Tokyo
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bstvtokyo
-#EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS Fuji
+#EXTINF:-1 group-title="BS" tvg-id="BSフジ",BS Fuji
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bsfuji
-#EXTINF:-1 group-title="BS" tvg-id="bs10",BS10
+#EXTINF:-1 group-title="BS" tvg-id="BS10",BS10
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bs10
-#EXTINF:-1 group-title="BS" tvg-id="bs11",BS11
+#EXTINF:-1 group-title="BS" tvg-id="BS11",BS11
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+BS11
-#EXTINF:-1 group-title="BS" tvg-id="bs12",BS12
+#EXTINF:-1 group-title="BS" tvg-id="BS12",BS12
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+BS12
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k",NHK BS4K
+#EXTINF:-1 group-title="BS" tvg-id="NHK_BSP4K",NHK BS4K
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bsp4k
-#EXTINF:-1 group-title="BS" tvg-id="wowow_prime",WOWOW Prime
+#EXTINF:-1 group-title="BS" tvg-id="WOWWOWプライム",WOWOW Prime
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+wprime
-#EXTINF:-1 group-title="BS" tvg-id="wowow_cinema",WOWOW Cinema
+#EXTINF:-1 group-title="BS" tvg-id="WOWWOWシネマ",WOWOW Cinema
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+wcinema
-#EXTINF:-1 group-title="BS" tvg-id="wowow_live",WOWOW Live
+#EXTINF:-1 group-title="BS" tvg-id="WOWWOWライブ",WOWOW Live
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+wlive
-#EXTINF:-1 group-title="BS" tvg-id="bs10スターチャンネル",BS10 Premium
+#EXTINF:-1 group-title="BS" tvg-id="BS10スターチャンネル",BS10 Premium
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bs10_star
-#EXTINF:-1 group-title="BS" tvg-id="js1",JSport 1
+#EXTINF:-1 group-title="BS" tvg-id="js_1",JSport 1
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+js1
 #EXTINF:-1 group-title="BS" tvg-id="js2",JSport 2
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+js2
@@ -86,19 +86,19 @@ https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+nihoneiga
 #EXTINF:-1 group-title="BS" tvg-id="sky_a",Sky A
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+sky-a
 
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs",NHK BS (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="NHK_BS",NHK BS (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs11
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv",BS NTV (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="BS日テレ",BS NTV (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs02
-#EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS Asahi (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="BS朝日",BS Asahi (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs03
-#EXTINF:-1 group-title="BS" tvg-id="bs_tbs",BS TBS (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="BS_TBS",BS TBS (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs04
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo",BS TV Tokyo (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="BSテレ東",BS TV Tokyo (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs05
-#EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS Fuji (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="BSフジ",BS Fuji (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs06
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k",NHK BS4K (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="NHK_BSP4K",NHK BS4K (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs01
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime",WOWOW Prime (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs12
@@ -106,7 +106,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs12
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs07
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live",WOWOW Live (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs20
-#EXTINF:-1 group-title="BS" tvg-id="bs10スターチャンネル",BS 10 Premium (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="BS10スターチャンネル",BS 10 Premium (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs08
 #EXTINF:-1 group-title="BS" tvg-id="js1",JSport 1 (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs18
@@ -122,7 +122,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs14
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs15
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga",Nihon Eiga Senmon (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs23
-#EXTINF:-1 group-title="BS" tvg-id="釣りビジョン",Fishing Vision (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="fishing_vision",Fishing Vision (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs25
 #EXTINF:-1 group-title="BS" tvg-id="disney_channel",Disney Channel (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs24 
@@ -258,6 +258,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs16
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
