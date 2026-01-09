@@ -61,11 +61,11 @@ https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+BS11
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+BS12
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k",NHK BS4K
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bsp4k
-#EXTINF:-1 group-title="BS" tvg-id="wowwow_prime",WOWOW Prime
+#EXTINF:-1 group-title="BS" tvg-id="wowow_prime",WOWOW Prime
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+wprime
-#EXTINF:-1 group-title="BS" tvg-id="wowwow_cinema",WOWOW Cinema
+#EXTINF:-1 group-title="BS" tvg-id="wowow_cinema",WOWOW Cinema
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+wcinema
-#EXTINF:-1 group-title="BS" tvg-id="wowwow_live",WOWOW Live
+#EXTINF:-1 group-title="BS" tvg-id="wowow_live",WOWOW Live
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+wlive
 #EXTINF:-1 group-title="BS" tvg-id="bs10スターチャンネル",BS10 Premium
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bs10_star
@@ -258,6 +258,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs16
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
