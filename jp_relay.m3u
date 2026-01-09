@@ -67,7 +67,7 @@ https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+wprime
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+wcinema
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live",WOWOW Live
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+wlive
-#EXTINF:-1 group-title="BS" tvg-id="bs10_スターチャンネル",BS10 Premium
+#EXTINF:-1 group-title="BS" tvg-id="bs10スターチャンネル",BS10 Premium
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+bs10_star
 #EXTINF:-1 group-title="BS" tvg-id="js1",JSport 1
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+js1
@@ -122,7 +122,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs14
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs15
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga",Nihon Eiga Senmon (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs23
-#EXTINF:-1 group-title="BS" tvg-id="fishing_vision",Fishing Vision (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="釣りビジョン",Fishing Vision (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs25
 #EXTINF:-1 group-title="BS" tvg-id="disney_channel",Disney Channel (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs24 
@@ -258,6 +258,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs16
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
