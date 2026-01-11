@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://zhx-stream.netgenx.site/epg/tv_epg.xml?region=jp_1,https://zhx-stream.netgenx.site/epg/tv_epg.xml?region=jp_2" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/epg/japanterevi-xmltv?guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://paypal.me/Tieptran1970
 https://zhx-player.netgenx.site/novid/hls/radio_stream.m3u8
@@ -77,7 +77,7 @@ https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+js2
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+js3
 #EXTINF:-1 group-title="BS" tvg-id="js4",JSport 4
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+js4
-#EXTINF:-1 group-title="BS" tvg-id="green_channel",Green Channel
+#EXTINF:-1 group-title="BS" tvg-id="グリーンチャンネル",Green Channel
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+green
 #EXTINF:-1 group-title="BS" tvg-id="animax",Animax
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+Animax
@@ -116,7 +116,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs19
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs21
 #EXTINF:-1 group-title="BS" tvg-id="js4",JSport 4 (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs22
-#EXTINF:-1 group-title="BS" tvg-id="green_channel",Green Channel (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="グリーンチャンネル",Green Channel (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs14
 #EXTINF:-1 group-title="BS" tvg-id="animax",Animax (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs15
@@ -129,7 +129,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs24
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs",Jcom BS (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs31
 
-#EXTINF:-1 group-title="CS" tvg-id="gaora",Gaora Sports
+#EXTINF:-1 group-title="CS" tvg-id="ガオラ",Gaora Sports
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+gaora
 #EXTINF:-1 group-title="CS" tvg-id="at_x",AT-X
 https://zhenix-px.netgenx.site/live_stream/luongz/master_playlist/nl+AT-X
@@ -216,7 +216,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs12
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs26
 #EXTINF:-1 group-title="CS" tvg-id="sky_a",Sky A (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs01
-#EXTINF:-1 group-title="CS" tvg-id="gaora",Gaora Sports (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="ガオラ",Gaora Sports (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs17
 #EXTINF:-1 group-title="CS" tvg-id="golf_network",Golf Network (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs03
@@ -258,6 +258,7 @@ https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs16
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
