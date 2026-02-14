@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://paypal.me/Tieptran1970
-https://zhx-player.netgenx.site/novid/hls/radio_stream.m3u8
+https://xuanzi.strage.netgenx.site/novid/hls/radio_stream.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="",This is a relay playlist
-https://zhx-player.netgenx.site/novid/hls/radio_stream.m3u8
+https://xuanzi.strage.netgenx.site/novid/hls/radio_stream.m3u8
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G
 https://node2.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd01
@@ -138,7 +138,7 @@ https://node2.shinori.my.id/live_stream/luongz/master_playlist/nl+spaceshower
 #EXTINF:-1 group-title="CS" tvg-id="mtv",MTV
 https://node2.shinori.my.id/live_stream/luongz/master_playlist/nl+mtv
 #EXTINF:-1 group-title="CS" tvg-id="mnet",Mnet
-https://xuangi.storage.netgenx.site/linxei_hls_mnet/stream_mnet.m3u8
+https://xuanzi.storage.netgenx.site/linxei_hls_mnet/stream_mnet.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="golf_network",Golf Network
 https://node2.shinori.my.id/live_stream/luongz/master_playlist/nl+golf_network
 #EXTINF:-1 group-title="CS" tvg-id="the_cinema",The Cinema
@@ -258,6 +258,7 @@ https://node2.shinori.my.id/live_stream/zhenxen/master_playlist/cs16
 https://node2.shinori.my.id/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://node2.shinori.my.id/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
