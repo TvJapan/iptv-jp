@@ -138,7 +138,7 @@ https://node2.shinori.my.id/live_stream/luongz/master_playlist/nl+spaceshower
 #EXTINF:-1 group-title="CS" tvg-id="mtv",MTV
 https://node2.shinori.my.id/live_stream/luongz/master_playlist/nl+mtv
 #EXTINF:-1 group-title="CS" tvg-id="mnet",Mnet
-https://xuangi.storage.netgenx.site/linxei_hls_mnet/stream/mnet.m3u8
+https://xuangi.storage.netgenx.site/linxei_hls_mnet/stream_mnet.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="golf_network",Golf Network
 https://node2.shinori.my.id/live_stream/luongz/master_playlist/nl+golf_network
 #EXTINF:-1 group-title="CS" tvg-id="the_cinema",The Cinema
@@ -258,6 +258,7 @@ https://node2.shinori.my.id/live_stream/zhenxen/master_playlist/cs16
 https://node2.shinori.my.id/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://node2.shinori.my.id/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
