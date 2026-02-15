@@ -67,7 +67,7 @@ https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+wprime
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+wcinema
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live",WOWOW Live
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+wlive
-#EXTINF:-1 group-title="BS" tvg-id="starbs10.jp",BS10 Premium
+#EXTINF:-1 group-title="BS" tvg-id="bs10_premium",BS10 Premium
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+bs10_star
 #EXTINF:-1 group-title="BS" tvg-id="jsports1.jp",JSport 1
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+js1
@@ -106,7 +106,7 @@ https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs12
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs07
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live",WOWOW Live (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs20
-#EXTINF:-1 group-title="BS" tvg-id="starbs10.jp",BS 10 Premium (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="bs10_premium",BS 10 Premium (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs08
 #EXTINF:-1 group-title="BS" tvg-id="jsports1.jp",JSport 1 (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs18
@@ -258,6 +258,7 @@ https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs16
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
