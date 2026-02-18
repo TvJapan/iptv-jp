@@ -67,15 +67,15 @@ https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+wprime
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+wcinema
 #EXTINF:-1 group-title="BS" tvg-id="wowowlive.jp",WOWOW Live
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+wlive
-#EXTINF:-1 group-title="BS" tvg-id="bs-10-premium.jp",BS10 Premium
+#EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp",BS10 Premium
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+bs10_star
-#EXTINF:-1 group-title="BS" tvg-id="j-sports-1.jp",JSport 1
+#EXTINF:-1 group-title="BS" tvg-id="jsports1.jp",JSport 1
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+js1
-#EXTINF:-1 group-title="BS" tvg-id="j-sports-2.jp",JSport 2
+#EXTINF:-1 group-title="BS" tvg-id="jsports2.jp",JSport 2
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+js2
-#EXTINF:-1 group-title="BS" tvg-id="j-sports-3.jp",JSport 3
+#EXTINF:-1 group-title="BS" tvg-id="jsports3.jp",JSport 3
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+js3
-#EXTINF:-1 group-title="BS" tvg-id="j-sports-4.jp",JSport 4
+#EXTINF:-1 group-title="BS" tvg-id="jsports4.jp",JSport 4
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+js4
 #EXTINF:-1 group-title="BS" tvg-id="greenchannel.jp",Green Channel
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+green
@@ -100,21 +100,21 @@ https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs05
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs06
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k",NHK BS4K (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs01
-#EXTINF:-1 group-title="BS" tvg-id="wowow-prime.jp",WOWOW Prime (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="wowowprime.jp",WOWOW Prime (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs12
-#EXTINF:-1 group-title="BS" tvg-id="wowow-cinema.jp",WOWOW Cinema (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="wowowcinema.jp",WOWOW Cinema (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs07
-#EXTINF:-1 group-title="BS" tvg-id="wowow-live.jp",WOWOW Live (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="wowowlive.jp",WOWOW Live (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs20
-#EXTINF:-1 group-title="BS" tvg-id="bs-10-premium.jp",BS 10 Premium (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp",BS 10 Premium (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs08
-#EXTINF:-1 group-title="BS" tvg-id="j-sports-1.jp",JSport 1 (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="jsports1.jp",JSport 1 (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs18
-#EXTINF:-1 group-title="BS" tvg-id="j-sports-2.jp",JSport 2 (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="jsports2.jp",JSport 2 (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs19
-#EXTINF:-1 group-title="BS" tvg-id="j-sports-3.jp",JSport 3 (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="jsports3.jp",JSport 3 (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs21
-#EXTINF:-1 group-title="BS" tvg-id="j-sports-4.jp",JSport 4 (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="jsports4.jp",JSport 4 (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs22
 #EXTINF:-1 group-title="BS" tvg-id="greenchannel.jp",Green Channel (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs14
@@ -122,14 +122,14 @@ https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs14
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs15
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga",Nihon Eiga Senmon (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs23
-#EXTINF:-1 group-title="BS" tvg-id="fishing-vision.jp",Fishing Vision (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="fishingvision.jp",Fishing Vision (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs25
-#EXTINF:-1 group-title="BS" tvg-id="disney-channel.jp",Disney Channel (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="disneychannel.jp",Disney Channel (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs24 
-#EXTINF:-1 group-title="BS" tvg-id="j-com-bs.jp",Jcom BS (Primehome)
+#EXTINF:-1 group-title="BS" tvg-id="jcom_bs",Jcom BS (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs31
 
-#EXTINF:-1 group-title="CS" tvg-id="gaora-sports.jp",Gaora Sports
+#EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp",Gaora Sports
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+gaora
 #EXTINF:-1 group-title="CS" tvg-id="at_x",AT-X
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+AT-X
@@ -157,13 +157,13 @@ https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+ntvgplus
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+familygeki
 #EXTINF:-1 group-title="CS" tvg-id="mondo_tv",Mondo TV
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+mondo
-#EXTINF:-1 group-title="CS" tvg-id="tbs-channel-1.jp",TBS Channel 1
+#EXTINF:-1 group-title="CS" tvg-id="tbschannel1.jp",TBS Channel 1
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+tbsch1
-#EXTINF:-1 group-title="CS" tvg-id="tbs-channel-2.jp",TBS Channel 2
+#EXTINF:-1 group-title="CS" tvg-id="tbschannel2.jp",TBS Channel 2
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+tbsch2
-#EXTINF:-1 group-title="CS" tvg-id="tv-asahi-channel-1.jp",TV Asahi Channel 1
+#EXTINF:-1 group-title="CS" tvg-id="tvasahichannel1.jp",TV Asahi Channel 1
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+ex_ch1
-#EXTINF:-1 group-title="CS" tvg-id="tv-asahi-channel-2.jp",TV Asahi Channel 2
+#EXTINF:-1 group-title="CS" tvg-id="tvasahichannel2.jp",TV Asahi Channel 2
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+ex_ch2
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one",Fuji TV One
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+fuji_one
@@ -185,7 +185,7 @@ https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+entermei_tele
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+sport_live_plus
 #EXTINF:-1 group-title="CS" tvg-id="home_drama",Home Drama Channel
 https://node1 .shinori.my.id/live_stream/luongz/master_playlist/nl+homedrama
-#EXTINF:-1 group-title="CS" tvg-id="channel-ginga.jp",Channel Ginga
+#EXTINF:-1 group-title="CS" tvg-id="channelginga.jp",Channel Ginga
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+gingach
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel",Tabi Channel
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+tabi
@@ -202,7 +202,7 @@ https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs04
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel",Toei Channel (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs27
-#EXTINF:-1 group-title="CS" tvg-id="eisei-gekijo.jp",Eisei Gekijo (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="eiseigekijo.jp",Eisei Gekijo (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs22
 #EXTINF:-1 group-title="CS" tvg-id="family_gekijo",Family Gekijo (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs20
@@ -216,7 +216,7 @@ https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs12
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs26
 #EXTINF:-1 group-title="CS" tvg-id="sky_a",Sky A (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs01
-#EXTINF:-1 group-title="CS" tvg-id="gaora-sports.jp",Gaora Sports (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp",Gaora Sports (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs17
 #EXTINF:-1 group-title="CS" tvg-id="golf_network",Golf Network (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs03
@@ -224,7 +224,7 @@ https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs03
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs02
 #EXTINF:-1 group-title="CS" tvg-id="mondo_tv",Mondo TV (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs21
-#EXTINF:-1 group-title="CS" tvg-id="channel-ginga.jp",Channel Ginga (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="channelginga.jp",Channel Ginga (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs29
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv",Space Shower TV (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs26
@@ -258,6 +258,7 @@ https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs16
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
