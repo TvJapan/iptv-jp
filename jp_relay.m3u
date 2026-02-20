@@ -67,7 +67,7 @@ https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+wprime
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+wcinema
 #EXTINF:-1 group-title="BS" tvg-id="wowowlive.jp",WOWOW Live
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+wlive
-#EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp",BS10 Premium
+#EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp",BS 10 Premium
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+bs10_star
 #EXTINF:-1 group-title="BS" tvg-id="jsports1.jp",JSport 1
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+js1
@@ -181,7 +181,7 @@ https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+toei
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+fighting_tv
 #EXTINF:-1 group-title="CS" tvg-id="entermei_tele",Entermei Tele
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+entermei_tele
-#EXTINF:-1 group-title="CS" tvg-id="sportliveplus.jp",Sport Live Plus
+#EXTINF:-1 group-title="CS" tvg-id="sportsliveplus.jp",Sport Live Plus
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+sport_live_plus
 #EXTINF:-1 group-title="CS" tvg-id="home_drama",Home Drama Channel
 https://node1 .shinori.my.id/live_stream/luongz/master_playlist/nl+homedrama
@@ -214,7 +214,7 @@ https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs05
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs12
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next",Fuji TV Next (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs26
-#EXTINF:-1 group-title="CS" tvg-id="sky-a.jp",Sky A (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="sky_a",Sky A (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs01
 #EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp",Gaora Sports (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs17
@@ -258,6 +258,7 @@ https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs16
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs11
+
 
 
 
