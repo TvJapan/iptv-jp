@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/2OINFaA.png",We need donations to maintain the server! | サーバー維持のため寄付募集中！
 http://nl.utako.moe:8001/radio
@@ -166,7 +166,7 @@ http://nl.utako.moe/kayopops/index.m3u8
 http://nl.utako.moe/kids_station/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="disneychannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png",Disney Channel
 http://nl.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png",Cartoon Network Japan
+#EXTINF:-1 group-title="CS" tvg-id="cartoonnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png",Cartoon Network Japan
 http://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="nittelegplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png",NTV G+
 http://nl.utako.moe/ntvgplus/index.m3u8
@@ -263,7 +263,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 #EXTINF:-1 group-title="CS" tvg-id="cartoonnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png", Cartoon Network (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 group-title="CS" tvg-id="nathonalgeographic.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png", National Geographic Japan (Primehome) 
+#EXTINF:-1 group-title="CS" tvg-id="nationalgeographic.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png", National Geographic Japan (Primehome) 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 #EXTINF:-1 group-title="CS" tvg-id="disneyjunior.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png", Disney Junior (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
@@ -277,8 +277,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #EXTINF:-1 group-title="CS" tvg-id="bbcnews.uk@asiapacific" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png", BBC News (Primehome)  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 group-title="CS" tvg-id="tbsnews.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png", TBS News (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="tbsnewscs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png", TBS News (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
