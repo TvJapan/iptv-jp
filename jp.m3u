@@ -174,7 +174,7 @@ http://nl.utako.moe/ntvgplus/index.m3u8
 http://nl.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mondotv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png",Mondo TV
 http://nl.utako.moe/mondo/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="musicontv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/ch/icon/premium/m_641.gif",Music On TV
+#EXTINF:-1 group-title="CS" tvg-id="musicontv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_641.gif",Music On TV
 http://nl.utako.moe/musicon/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mnet.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-181-400x400.png",Mnet
 http://nl.utako.moe/mnet/index.m3u8
@@ -214,7 +214,7 @@ http://nl.utako.moe/homedrama/index.m3u8
 http://nl.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tabichannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png",Tabi Channel
 http://nl.utako.moe/tabi/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="pigoo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/ch/icon/premium/m_663.gif",Pigoo (NSFW)
+#EXTINF:-1 group-title="CS" tvg-id="pigoo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_663.gif",Pigoo (NSFW)
 http://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="vparadise.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png",V Paradise (NSFW)
 http://nl.utako.moe/v_paradise/index.m3u8
@@ -249,7 +249,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 #EXTINF:-1 group-title="CS" tvg-id="spaceshowertv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png", Space Shower TV (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 group-title="CS" tvg-id="musicjapantv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/ch/icon/premium/m_639.gif", Music Japan TV (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="musicjapantv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_639.gif", Music Japan TV (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 group-title="CS" tvg-id="kayopops.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png", Kayo Pops (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
@@ -279,6 +279,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbsnews.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png", TBS News (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
