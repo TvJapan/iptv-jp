@@ -86,18 +86,8 @@ https://media-nd1.shinori.my.id/nihon_eiga_senmon/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="sky_a",Sky A
 https://media-nd1.shinori.my.id/sky_a/video.m3u8
 
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs",NHK BS (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv",BS NTV (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS Asahi (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-#EXTINF:-1 group-title="BS" tvg-id="bs_tbs",BS TBS (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo",BS TV Tokyo (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS Fuji (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k",NHK BS4K (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 group-title="BS" tvg-id="wowowprime.jp",WOWOW Prime (Primehome)
@@ -108,18 +98,8 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 #EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp",BS 10 Premium (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 group-title="BS" tvg-id="jsports1.jp",JSport 1 (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 group-title="BS" tvg-id="jsports2.jp",JSport 2 (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:-1 group-title="BS" tvg-id="jsports3.jp",JSport 3 (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 group-title="BS" tvg-id="jsports4.jp",JSport 4 (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 group-title="BS" tvg-id="greenchannel.jp",Green Channel (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 group-title="BS" tvg-id="animax",Animax (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga",Nihon Eiga Senmon (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 #EXTINF:-1 group-title="BS" tvg-id="fishingvision.jp",Fishing Vision (Primehome)
@@ -138,8 +118,8 @@ https://media-nd1.shinori.my.id/space_shower_tv/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv",MTV
 https://media-nd1.shinori.my.id/mtv/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mnet",Mnet
-https://media-nd1.shinori.my.id/m_net/video.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="superdramatv.jp",Super Drama_TV
+https://media-nd1.shinori.my.id/mnet/video.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="superdramatv.jp",Super Drama TV
 https://media-nd1.shinori.my.id/super_drama_tv/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="the_cinema",The Cinema
 https://media-nd1.shinori.my.id/the_cinema/video.m3u8
@@ -148,7 +128,7 @@ https://media-nd1.shinori.my.id/kayo_pops/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation.jp",Kids Station
 https://media-nd1.shinori.my.id/kids_station/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="disneychannel.jp",Disney Channel
-https://media-nd1.shinori.my.id/disny_channel/video.m3u8
+https://media-nd1.shinori.my.id/disney_channel/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="cartoon_network",Cartoon Network Japan
 https://media-nd1.shinori.my.id/cartoon_network/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu",NTV G+
@@ -200,39 +180,15 @@ https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7
 
 #EXTINF:-1 group-title="CS" tvg-id="jidaigeki",Jidaigeki Senmon (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-#EXTINF:-1 group-title="CS" tvg-id="toei_channel",Toei Channel (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1 group-title="CS" tvg-id="eiseigekijo.jp",Eisei Gekijo (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 group-title="CS" tvg-id="family_gekijo",Family Gekijo (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs20
 #EXTINF:-1 group-title="CS" tvg-id="movieplus.jp",Movie Plus (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 group-title="CS" tvg-id="home_drama",Home Drama Channel (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-#EXTINF:-1 group-title="CS" tvg-id="tabi_channel",Tabi Channel (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next",Fuji TV Next (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 #EXTINF:-1 group-title="CS" tvg-id="sky_a",Sky A (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp",Gaora Sports (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="CS" tvg-id="golf_network",Golf Network (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu",NTV G+ (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 group-title="CS" tvg-id="mondo_tv",Mondo TV (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs21
-#EXTINF:-1 group-title="CS" tvg-id="channelginga.jp",Channel Ginga (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv",Space Shower TV (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 #EXTINF:-1 group-title="CS" tvg-id="music_japan_tv",Music Japan TV (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 group-title="CS" tvg-id="kayopops.jp",Kayo Pops (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-#EXTINF:-1 group-title="CS" tvg-id="mtv",MTV (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="CS" tvg-id="lala_tv",LaLa TV (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs19
@@ -240,8 +196,6 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs19
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation.jp",Kids Staton TV (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-#EXTINF:-1 group-title="CS" tvg-id="cartoon_network",Cartoon Network (Primehome)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 group-title="CS" tvg-id="natgeo",National Geographic Japan (Primehome) 
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 #EXTINF:-1 group-title="CS" tvg-id="disney_junior",Disney Junior (Primehome)
@@ -258,6 +212,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
