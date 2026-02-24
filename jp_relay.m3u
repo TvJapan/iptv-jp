@@ -54,7 +54,7 @@ https://media-nd1.shinori.my.id/bs_tv_tokyo/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS Fuji
 https://media-nd1.shinori.my.id/bs_fuji/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs10",BS10
-https://media-nd1.shinori.my.id/bs10/video.m3u8
+https://media-nd1.shinori.my.id/bs_10/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11",BS11
 https://media-nd1.shinori.my.id/bs11/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs12",BS12
@@ -68,7 +68,7 @@ https://media-nd1.shinori.my.id/wowwow_cinema/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowowlive.jp",WOWOW Live
 https://media-nd1.shinori.my.id/wowwow_live/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp",BS 10 Premium
-https://media-nd1.shinori.my.id/bs10_star_channel/video.m3u8
+https://media-nd1.shinori.my.id/bs_10_star_channel/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="jsports1.jp",JSport 1
 https://media-nd1.shinori.my.id/jsport_1/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="jsports2.jp",JSport 2
@@ -131,7 +131,7 @@ http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs31
 
 #EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp",Gaora Sports
 https://media-nd1.shinori.my.id/gaora_sports/video.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="at-x.jp",AT-X
+#EXTINF:-1 group-title="CS" tvg-id="atx.jp",AT-X
 https://media-nd1.shinori.my.id/at_x/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv",Space Shower TV
 https://media-nd1.shinori.my.id/space_shower_tv/video.m3u8
@@ -258,6 +258,7 @@ http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs16
 http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs11
+
 
 
 
