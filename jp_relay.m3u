@@ -41,15 +41,15 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",Tokyo MX1 (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd08
 
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
 https://media-nd1.shinori.my.id/nhk_bs/video.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
 https://media-nd1.shinori.my.id/bs_ntv/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS Asahi
 https://media-nd1.shinori.my.id/bs_asahi/video.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_tbs tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
+#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
 https://media-nd1.shinori.my.id/bs_tbs/video.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo tvg-logo"https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS TV Tokyo
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo"https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS TV Tokyo
 https://media-nd1.shinori.my.id/bs_tv_tokyo/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS Fuji
 https://media-nd1.shinori.my.id/bs_fuji/video.m3u8
@@ -109,11 +109,11 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png",Jcom BS (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 
-#EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp"　tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png",Gaora Sports
+#EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png",Gaora Sports
 https://media-nd1.shinori.my.id/gaora_sports/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="atx.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png",AT-X
 https://media-nd1.shinori.my.id/at_x/video.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png,Space Shower TV
+#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png",Space Shower TV
 https://media-nd1.shinori.my.id/space_shower_tv/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png",MTV
 https://media-nd1.shinori.my.id/mtv/video.m3u8
@@ -196,7 +196,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs19
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png",Kids Staton TV (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-#EXTINF:-1 group-title="CS" tvg-id="natgeo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png,National Geographic Japan (Primehome) 
+#EXTINF:-1 group-title="CS" tvg-id="natgeo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png",National Geographic Japan (Primehome) 
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 #EXTINF:-1 group-title="CS" tvg-id="disney_junior" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png",Disney Junior (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs23
@@ -212,6 +212,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png",TBS News (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
