@@ -6,40 +6,40 @@ https://xuanzi-strage.netgenx.site/novid/hls/radio_stream.m3u8
 https://xuanzi-strage.netgenx.site/novid/hls/radio_stream.m3u8
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=hdgd01
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=hdgd02
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=hdgd03
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",TV Asahi
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=hdgd06
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=hdgd04
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",TV Tokyo
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=hdgd07
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",Fuji TV
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=hdgd05
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1",Tokyo MX1
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=hdgd08
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2",Tokyo MX2
 https://media-nd1.shinori.my.id/tokyo_mx2/video.m3u8
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=gd01
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=gd02
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv",NTV (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=gd03
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",TV Asahi (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=gd06
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=gd04
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",TV Tokyo (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=gd07
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",Fuji TV (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=gd05
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1",Tokyo MX1 (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=gd08
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd08
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs",NHK BS
 https://media-nd1.shinori.my.id/nhk_bs/video.m3u8
@@ -87,47 +87,47 @@ https://media-nd1.shinori.my.id/nihon_eiga_senmon/video.m3u8
 https://media-nd1.shinori.my.id/sky_a/video.m3u8
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs",NHK BS (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs11
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv",BS NTV (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs02
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi",BS Asahi (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs03
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs",BS TBS (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs04
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 #EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo",BS TV Tokyo (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs05
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji",BS Fuji (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs06
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k",NHK BS4K (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs01
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 group-title="BS" tvg-id="wowowprime.jp",WOWOW Prime (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs12
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 #EXTINF:-1 group-title="BS" tvg-id="wowowcinema.jp",WOWOW Cinema (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs07
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:-1 group-title="BS" tvg-id="wowowlive.jp",WOWOW Live (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs20
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 #EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp",BS 10 Premium (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs08
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1 group-title="BS" tvg-id="jsports1.jp",JSport 1 (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs18
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 #EXTINF:-1 group-title="BS" tvg-id="jsports2.jp",JSport 2 (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs19
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 #EXTINF:-1 group-title="BS" tvg-id="jsports3.jp",JSport 3 (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs21
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="BS" tvg-id="jsports4.jp",JSport 4 (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs22
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 group-title="BS" tvg-id="greenchannel.jp",Green Channel (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs14
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #EXTINF:-1 group-title="BS" tvg-id="animax",Animax (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs15
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga",Nihon Eiga Senmon (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs23
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 #EXTINF:-1 group-title="BS" tvg-id="fishingvision.jp",Fishing Vision (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs25
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 #EXTINF:-1 group-title="BS" tvg-id="disneychannel.jp",Disney Channel (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs24 
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs24 
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs",Jcom BS (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs31
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 
 #EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp",Gaora Sports
 https://media-nd1.shinori.my.id/gaora_sports/video.m3u8
@@ -199,65 +199,66 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
 
 #EXTINF:-1 group-title="CS" tvg-id="jidaigeki",Jidaigeki Senmon (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs04
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs04
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel",Toei Channel (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs27
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1 group-title="CS" tvg-id="eiseigekijo.jp",Eisei Gekijo (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs22
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 #EXTINF:-1 group-title="CS" tvg-id="family_gekijo",Family Gekijo (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs20
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs20
 #EXTINF:-1 group-title="CS" tvg-id="movie_plus",Movie Plus (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs14
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs14
 #EXTINF:-1 group-title="CS" tvg-id="home_drama",Home Drama Channel (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs05
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel",Tabi Channel (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs12
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next",Fuji TV Next (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs26
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 #EXTINF:-1 group-title="CS" tvg-id="sky_a",Sky A (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs01
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 #EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp",Gaora Sports (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs17
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="CS" tvg-id="golf_network",Golf Network (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs03
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 #EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu",NTV G+ (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs02
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 #EXTINF:-1 group-title="CS" tvg-id="mondo_tv",Mondo TV (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs21
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 #EXTINF:-1 group-title="CS" tvg-id="channelginga.jp",Channel Ginga (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs29
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv",Space Shower TV (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=bs26
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 #EXTINF:-1 group-title="CS" tvg-id="music_japan_tv",Music Japan TV (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs06
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 group-title="CS" tvg-id="kayo_pops",Kayo Pops (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs13
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 #EXTINF:-1 group-title="CS" tvg-id="mtv",MTV (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs18
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="CS" tvg-id="lala_tv",LaLa TV (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs19
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs19
 #EXTINF:-1 group-title="CS" tvg-id="sky_stage",Takarazuka Sky Stage (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs28
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation.jp",Kids Staton TV (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs07
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 #EXTINF:-1 group-title="CS" tvg-id="cartoon_network",Cartoon Network (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs25
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1 group-title="CS" tvg-id="natgeo",National Geographic Japan (Primehome) 
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs10
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 #EXTINF:-1 group-title="CS" tvg-id="disney_junior",Disney Junior (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs23
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="CS" tvg-id="discovery_channel",Discovery Channel (Primehome)  
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs08
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 #EXTINF:-1 group-title="CS" tvg-id="animal_planet",Animal Planet (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs24
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs24
 #EXTINF:-1 group-title="CS" tvg-id="history_channel",History (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs09
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 #EXTINF:-1 group-title="CS" tvg-id="cnnj",CNNj (Primehome) 
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs16
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #EXTINF:-1 group-title="CS" tvg-id="bbc_news",BBC News (Primehome)  
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs15
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
-http://cdns.kaitekitv.com:8000/zhonging/live/playlist.m3u8?cid=cs11
+http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
