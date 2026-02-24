@@ -171,7 +171,7 @@ https://media-nd1.shinori.my.id/fuji_tv_one/video.m3u8
 https://media-nd1.shinori.my.id/fuji_tv_two/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next",Fuji TV Next
 https://media-nd1.shinori.my.id/fuji_tv_next/video.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="neco",Neco Channel
+#EXTINF:-1 group-title="CS" tvg-id="channelneco.jp",Neco Channel
 https://media-nd1.shinori.my.id/neco_channel/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="dlife",Dlife
 https://media-nd1.shinori.my.id/dlife/video.m3u8
@@ -206,7 +206,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 #EXTINF:-1 group-title="CS" tvg-id="family_gekijo",Family Gekijo (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-#EXTINF:-1 group-title="CS" tvg-id="movie_plus",Movie Plus (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="movieplus.jp",Movie Plus (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs14
 #EXTINF:-1 group-title="CS" tvg-id="home_drama",Home Drama Channel (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs05
@@ -230,7 +230,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 #EXTINF:-1 group-title="CS" tvg-id="music_japan_tv",Music Japan TV (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 group-title="CS" tvg-id="kayo_pops",Kayo Pops (Primehome)
+#EXTINF:-1 group-title="CS" tvg-id="kayopops.jp",Kayo Pops (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 #EXTINF:-1 group-title="CS" tvg-id="mtv",MTV (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs18
@@ -258,6 +258,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
