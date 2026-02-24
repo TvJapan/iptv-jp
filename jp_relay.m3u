@@ -49,7 +49,7 @@ https://media-nd1.shinori.my.id/bs_ntv/video.m3u8
 https://media-nd1.shinori.my.id/bs_asahi/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
 https://media-nd1.shinori.my.id/bs_tbs/video.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo"https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS TV Tokyo
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS TV Tokyo
 https://media-nd1.shinori.my.id/bs_tv_tokyo/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS Fuji
 https://media-nd1.shinori.my.id/bs_fuji/video.m3u8
@@ -81,7 +81,7 @@ https://media-nd1.shinori.my.id/jsport_4/video.m3u8
 https://media-nd1.shinori.my.id/green_channel/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-149-400x400.png",JSport,Animax
 https://media-nd1.shinori.my.id/animax/video.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-125-400x400.png,Nihon Eiga Senmon
+#EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-125-400x400.png",Nihon Eiga Senmon
 https://media-nd1.shinori.my.id/nihon_eiga_senmon/video.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png",Sky A
 https://media-nd1.shinori.my.id/sky_a/video.m3u8
@@ -212,6 +212,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png",TBS News (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
