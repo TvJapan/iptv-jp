@@ -139,11 +139,11 @@ https://media-nd1.shinori.my.id/space_shower_tv/video.m3u8
 https://media-nd1.shinori.my.id/mtv/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mnet",Mnet
 https://media-nd1.shinori.my.id/m_net/video.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="golf_network",Super Drama_TV
+#EXTINF:-1 group-title="CS" tvg-id="superdramatv.jp",Super Drama_TV
 https://media-nd1.shinori.my.id/super_drama_tv/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="the_cinema",The Cinema
 https://media-nd1.shinori.my.id/the_cinema/video.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="kayo_pops",Kayo Pops
+#EXTINF:-1 group-title="CS" tvg-id="kayopops.jp",Kayo Pops
 https://media-nd1.shinori.my.id/kayo_pops/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation.jp",Kids Station
 https://media-nd1.shinori.my.id/kids_station/video.m3u8
@@ -258,6 +258,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news",TBS News (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
