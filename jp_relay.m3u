@@ -159,11 +159,11 @@ https://media-nd1.shinori.my.id/dlife/video.m3u8
 https://media-nd1.shinori.my.id/toei_channel/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fighting_tv" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/600.gif",Fighting TV Samurai
 https://media-nd1.shinori.my.id/fighting_tv_samurai/video.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="entermei_tele" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs306.gif",Entermei Tele
+#EXTINF:-1 group-title="CS" tvg-id="entermei_tele" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs301.gif",Entermei Tele
 https://media-nd1.shinori.my.id/enter_meitele/video.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="sportsliveplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs306.gif",Sport Live Plus
+#EXTINF:-1 group-title="CS" tvg-id="sportsliveplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs800.gif",Sport Live Plus
 https://media-nd1.shinori.my.id/sport_live_plus/video.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs306.gif",Home Drama Channel
+#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs294.gif",Home Drama Channel
 https://media-nd1.shinori.my.id/home_drama_channel/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="channelginga.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs305.gif",Channel Ginga
 https://media-nd1.shinori.my.id/channel_ginga/video.m3u8
@@ -175,9 +175,9 @@ https://media-nd1.shinori.my.id/music_on_tv/video.m3u8
 https://media-nd1.shinori.my.id/action_channel_axn/video.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mysterychannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs316.gif",Mystery Channel
 https://media-nd1.shinori.my.id/mystery_channel/video.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="shopchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs055.gif",Shop Channel
+#EXTINF:-1 group-title="CS" tvg-id="shopchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/523.gif",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="qvc.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs161.gif",QVC
+#EXTINF:-1 group-title="CS" tvg-id="qvc.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="gstv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif",GSTV
 https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
@@ -214,6 +214,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News (Primehome)
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
