@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://node1.shinori.my.id/epg/tv_epg.xml?region=jp_1,https://node1.shinori.my.id/epg/tv_epg.xml?region=jp_3,https://node1.shinori.my.id/epg/tv_epg.xml?region=jp_2,https://tv-schedule.netgenx.site/epg_data.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://paypal.me/Tieptran1970
-https://xuanzi-strage.netgenx.site/novid/hls/radio_stream.m3u8
+https://xuanzi-storage.netgenx.site/novid/hls/radio_stream.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="",This is a relay playlist
-https://xuanzi-strage.netgenx.site/novid/hls/radio_stream.m3u8
+https://xuanzi-storage.netgenx.site/novid/hls/radio_stream.m3u8
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
@@ -54,7 +54,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS Fuji
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 #EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-110-400x400.png",BS10
-https://xuanzi-strage.netgenx.site/linxei_hls_bs10_private/stream_bs10.m3u8
+https://xuanzi-storage.netgenx.site/linxei_hls_bs10_private/stream_bs10.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS11
 https://media-linxei3.shinori.my.id/live_stream/naori/master_playlist/157
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS12
@@ -105,13 +105,13 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 #EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs254.gif",Gaora Sports
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="CS" tvg-id="atx.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif",AT-X
-https://xuanzi-strage.netgenx.site/linxei_hls_at-x_private/stream_at-x.m3u8
+https://xuanzi-storage.netgenx.site/linxei_hls_at-x_private/stream_at-x.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs322.gif",Space Shower TV
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs323.gif",MTV
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="CS" tvg-id="mnet" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",Mnet
-https://xuanzi-strage.netgenx.site/linxei_hls_mnet_private/stream_mnet.m3u8
+https://xuanzi-storage.netgenx.site/linxei_hls_mnet_private/stream_mnet.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="superdramatv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/647.gif",Super Drama TV
 https://media-linxei3.shinori.my.id/live_stream/naori/master_playlist/133
 #EXTINF:-1 group-title="CS" tvg-id="the_cinema" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif",The Cinema
@@ -205,6 +205,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
