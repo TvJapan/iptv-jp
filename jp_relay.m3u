@@ -44,7 +44,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=gd08
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV HD
-https://media-linxei3.shinori.my.id/live_stream/naori/master_playlist/44
+https://media-linxei.shinori.my.id/live_stream/naori/master_playlist/44
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS Asahi
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
@@ -78,11 +78,11 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="BS" tvg-id="jsports4.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs245.gif",JSport 4
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 group-title="BS" tvg-id="greenchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif",Green Channel HD
-https://media-linxei3.shinori.my.id/live_stream/naori/master_playlist/60
+https://media-linxei.shinori.my.id/live_stream/naori/master_playlist/60
 #EXTINF:-1 group-title="BS" tvg-id="animax.in" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs236.gif",Animax
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs255.gif",Nihon Eiga Senmon HD
-https://media-linxei3.shinori.my.id/live_stream/naori/master_playlist/57
+https://media-linxei.shinori.my.id/live_stream/naori/master_playlist/57
 #EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs250.gif",Sky A HD
 https://media-linxei.shinori.my.id/live_stream/naori/master_playlist/72
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
@@ -105,7 +105,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 #EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs254.gif",Gaora Sports
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="CS" tvg-id="atx.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif",AT-X
-https://xuanzi-storage.netgenx.site/linxei_hls_at-x_private/stream_at-x.m3u8
+https://media-linxei.shinori.my.id/live_stream/naori/master_playlist/107
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs322.gif",Space Shower TV
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs323.gif",MTV
@@ -205,6 +205,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
