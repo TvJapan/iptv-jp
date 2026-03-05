@@ -54,7 +54,7 @@ http://arva-sg.shinori.my.id/stream/jp/bs_tv_tokyo
 #EXTINF:-1 group-title="BS" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS Fuji
 http://arva-sg.shinori.my.id/stream/jp/bs_fuji
 #EXTINF:-1 group-title="BS" tvg-id="bs10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-110-400x400.png",BS 10
-http://arva-sg.shinori.my.id/stream/jp/bs_10
+https://arva-sg.shinori.my.id/stream/jp/bs_10
 #EXTINF:-1 group-title="BS" tvg-id="bs11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS 11
 http://arva-sg.shinori.my.id/stream/jp/bs11
 #EXTINF:-1 group-title="BS" tvg-id="bs12.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS 12
@@ -202,6 +202,7 @@ http://arva-sg.shinori.my.id/stream/jp/cnnj
 http://arva-sg.shinori.my.id/stream/jp/bbc_news
 #EXTINF:-1 group-title="CS" tvg-id="tbsnewscs.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
 http://arva-sg.shinori.my.id/stream/jp/tbs_news
+
 
 
 
