@@ -56,9 +56,9 @@ http://media-linxei3.shinori.my.id/stream/jp/bs_fuji
 #EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-110-400x400.png",BS 10
 https://xuanzi-storage.netgenx.site/linxei_hls_bs10_private/stream_bs10.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS 11
-http://media-linxei3.shinori.my.id/stream/jp/bs11
+https://media-linxei.shinori.my.id/live_stream/naori/master_playlist/157
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS 12
-http://media-linxei3.shinori.my.id/stream/jp/bs_12
+https://media-linxei.shinori.my.id/live_stream/naori/master_playlist/114
 #EXTINF:-1 group-title="BS" tvg-id="nhkbsp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BS4K
 http://media-linxei3.shinori.my.id/stream/jp/nhk_bs4k
 #EXTINF:-1 group-title="BS" tvg-id="wowowprime.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif",WOWOW Prime 
@@ -83,12 +83,10 @@ http://media-linxei3.shinori.my.id/stream/jp/green_channel
 http://media-linxei3.shinori.my.id/stream/jp/animax
 #EXTINF:-1 group-title="BS" tvg-id="nihoneigasenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs255.gif",Nihon Eiga Senmon HD
 http://media-linxei3.shinori.my.id/stream/jp/nihon_eiga_senmon
-#EXTINF:-1 group-title="BS" tvg-id="skya.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs250.gif",Sky A HD
-http://media-linxei3.shinori.my.id/stream/jp/sky_a
 #EXTINF:-1 group-title="BS" tvg-id="ntvnews24.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs349.gif",NTV News24
-http://media-linxei3.shinori.my.id/stream/jp/news24
+https://media-linxei.shinori.my.id/live_stream/naori/master_playlist/112
 #EXTINF:-1 group-title="BS" tvg-id="bsyoshimoto.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-65406-179-400x400.png",BS Yoshimoto
-http://media-linxei3.shinori.my.id/stream/jp/bs_yoshimoto
+https://media-linxei.shinori.my.id/live_stream/naori/master_playlist/53
 #EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs201.gif",BS 10 Premium
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 #EXTINF:-1 group-title="BS" tvg-id="greenchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif",Green Channel
@@ -105,17 +103,17 @@ http://media-linxei3.shinori.my.id/stream/jp/jcom_bs
 #EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs254.gif",Gaora Sports
 http://media-linxei3.shinori.my.id/stream/jp/gaora_sports
 #EXTINF:-1 group-title="CS" tvg-id="atx.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif",AT-X
-http://media-linxei3.shinori.my.id/stream/jp/at_x
+http://media-linxei3.shinori.my.id/stream/jp/at-x
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs322.gif",Space Shower TV
 http://media-linxei3.shinori.my.id/stream/jp/space_shower_tv
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs323.gif",MTV
 http://media-linxei3.shinori.my.id/stream/jp/mtv
 #EXTINF:-1 group-title="CS" tvg-id="mnet" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",Mnet
-http://media-linxei3.shinori.my.id/stream/jp/mnet
+https://xuanzi-storage.netgenx.site/linxei_hls_mnet_private/stream_mnet.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="superdramatv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/647.gif",Super Drama TV
 http://media-linxei3.shinori.my.id/stream/jp/super_drama_tv
 #EXTINF:-1 group-title="CS" tvg-id="thecinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif",The Cinema
-http://media-linxei3.shinori.my.id/stream/jp/the_chinema
+https://media-linxei.shinori.my.id/live_stream/luongz/master_playlist/nl+the_chinema
 #EXTINF:-1 group-title="CS" tvg-id="kayopops.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs329.gif",Kayo Pops
 http://media-linxei3.shinori.my.id/stream/jp/kayo_pops
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs330.gif",Kids Station
@@ -143,7 +141,7 @@ http://media-linxei3.shinori.my.id/stream/jp/fuji_tv_two
 #EXTINF:-1 group-title="CS" tvg-id="fujitvnext.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs309.gif",Fuji TV Next
 http://media-linxei3.shinori.my.id/stream/jp/fuji_tv_next
 #EXTINF:-1 group-title="CS" tvg-id="channelneco.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs223.gif",Neco Channel
-http://media-linxei3.shinori.my.id/stream/jp/channel_neco
+https://media-linxei.shinori.my.id/live_stream/luongz/master_playlist/nl+neco
 #EXTINF:-1 group-title="CS" tvg-id="dlife.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs312.gif",Dlife
 http://media-linxei3.shinori.my.id/stream/jp/dlife 
 #EXTINF:-1 group-title="CS" tvg-id="toeichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs218.gif",Toei Channel
@@ -204,6 +202,7 @@ http://media-linxei3.shinori.my.id/stream/jp/cnnj
 http://media-linxei3.shinori.my.id/stream/jp/bbc_news
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
 http://media-linxei3.shinori.my.id/stream/jp/tbs_news
+
 
 
 
