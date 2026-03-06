@@ -117,7 +117,7 @@ https://arva-tky.shinori.my.id/stream/jp/the_cinema
 #EXTINF:-1 group-title="CS" tvg-id="kayopops.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs329.gif",Kayo Pops
 https://arva-tky.shinori.my.id/stream/jp/kayo_pops
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs330.gif",Kids Station
-https://arva-tky.shinori.my.id/stream/jp/kids_station_tv
+https://arva-tky.shinori.my.id/stream/jp/kids_staton_tv
 #EXTINF:-1 group-title="CS" tvg-id="cartoonnetwork.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs331.gif",Cartoon Network Japan
 https://arva-tky.shinori.my.id/stream/jp/cartoon_network
 #EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs257.gif",NTV G+
@@ -202,6 +202,7 @@ https://arva-tky.shinori.my.id/stream/jp/cnnj
 https://arva-tky.shinori.my.id/stream/jp/bbc_news
 #EXTINF:-1 group-title="CS" tvg-id="tbsnews.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
 https://arva-tky.shinori.my.id/stream/jp/tbs_news
+
 
 
 
