@@ -75,7 +75,7 @@ http://nl.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS Fuji
 http://nl.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png",BS 10
-https://arva-sg.shinori.my.id/stream/jp/bs_10
+https://arva-tky.shinori.my.id/stream/jp/bs_10
 #EXTINF:-1 group-title="BS" tvg-id="bs11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS 11
 http://nl.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs12.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS 12
@@ -177,7 +177,7 @@ http://nl.utako.moe/mondo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="musicontv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_641.gif",Music On TV
 http://nl.utako.moe/musicon/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mnet.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-181-400x400.png",Mnet
-https://arva-sg.shinori.my.id/stream/jp/mnet
+https://arva-tky.shinori.my.id/stream/jp/mnet
 #EXTINF:-1 group-title="CS" tvg-id="golfnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png",Golf Network
 http://nl.utako.moe/golf_network/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="thecinema.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-133-400x400.png",The Cinema
@@ -279,6 +279,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbsnewscs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png", TBS News (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 
 
