@@ -132,7 +132,7 @@ https://arva-tky.shinori.my.id/stream/jp/tbs_channel_1?mode=hls
 https://arva-tky.shinori.my.id/stream/jp/tbs_channel_2?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="tvasahichannel1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs298.gif",TV Asahi Channel 1
 https://arva-tky.shinori.my.id/stream/jp/tv_asahi_channel_1?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="tvasahichannel2.jp" tvg?-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs299.gif",TV Asahi Channel 2
+#EXTINF:-1 group-title="CS" tvg-id="tvasahichannel2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs299.gif",TV Asahi Channel 2
 https://arva-tky.shinori.my.id/stream/jp/tv_asahi_channel_2?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="fujitvone.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs307.gif",Fuji TV One
 https://arva-tky.shinori.my.id/stream/jp/fuji_tv_one?mode=hls
@@ -163,7 +163,7 @@ https://arva-tky.shinori.my.id/stream/jp/music_on_tv?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="axn.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs311.gif",Action Channel(AXN)
 https://arva-tky.shinori.my.id/stream/jp/action_channel_%28axn%29?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="mysterychannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs316.gif",Mystery Channel
-https://arva-tky.shinori.my.id/stream/jp/mystery_channel?mode==
+https://arva-tky.shinori.my.id/stream/jp/mystery_channel?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="shopchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/523.gif",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="qvc.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif",QVC
@@ -202,6 +202,7 @@ https://arva-tky.shinori.my.id/stream/jp/cnnj?mode=hls
 https://arva-tky.shinori.my.id/stream/jp/bbc_news?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="tbsnews.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
 https://arva-tky.shinori.my.id/stream/jp/tbs_news?mode=hls
+
 
 
 
