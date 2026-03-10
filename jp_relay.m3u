@@ -77,7 +77,7 @@ https://arva-tky.shinori.my.id/stream/jp/jsport_2?ac_tk=eyJhbGciOiJBMjU2S1ciLCJl
 https://arva-tky.shinori.my.id/stream/jp/jsport_3?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.RW8ax7OZUv28Og7smDwAkeOXM4qty8gD13OLDPBpSeyh-6ZjkxD51g.gzN2tdKacLJzwXoe.7okK_bNZyzF_v-bibgEY_AfBMULJizsQLdBjfCUC.e36cvI97Bm7yHVojn7OHEg&mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="jsports4.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs245.gif",JSport 4
 https://arva-tky.shinori.my.id/stream/jp/jsport_4?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.RW8ax7OZUv28Og7smDwAkeOXM4qty8gD13OLDPBpSeyh-6ZjkxD51g.gzN2tdKacLJzwXoe.7okK_bNZyzF_v-bibgEY_AfBMULJizsQLdBjfCUC.e36cvI97Bm7yHVojn7OHEg&mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="greenchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif",Green Channel HD
+#EXTINF:-1 group-title="BS" tvg-id="greenchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif",Green Channel
 https://arva-tky.shinori.my.id/stream/jp/green_channel?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.RW8ax7OZUv28Og7smDwAkeOXM4qty8gD13OLDPBpSeyh-6ZjkxD51g.gzN2tdKacLJzwXoe.7okK_bNZyzF_v-bibgEY_AfBMULJizsQLdBjfCUC.e36cvI97Bm7yHVojn7OHEg&mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="animax.in" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs236.gif",Animax
 https://arva-tky.shinori.my.id/stream/jp/animax?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.RW8ax7OZUv28Og7smDwAkeOXM4qty8gD13OLDPBpSeyh-6ZjkxD51g.gzN2tdKacLJzwXoe.7okK_bNZyzF_v-bibgEY_AfBMULJizsQLdBjfCUC.e36cvI97Bm7yHVojn7OHEg&mode=hls
@@ -87,10 +87,6 @@ https://arva-tky.shinori.my.id/stream/jp/nihon_eiga_senmon?ac_tk=eyJhbGciOiJBMjU
 https://arva-tky.shinori.my.id/stream/jp/ntv_news24?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.RW8ax7OZUv28Og7smDwAkeOXM4qty8gD13OLDPBpSeyh-6ZjkxD51g.gzN2tdKacLJzwXoe.7okK_bNZyzF_v-bibgEY_AfBMULJizsQLdBjfCUC.e36cvI97Bm7yHVojn7OHEg&mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bsyoshimoto.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-65406-179-400x400.png",BS Yoshimoto
 https://arva-tky.shinori.my.id/stream/jp/bs_yoshimoto?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.RW8ax7OZUv28Og7smDwAkeOXM4qty8gD13OLDPBpSeyh-6ZjkxD51g.gzN2tdKacLJzwXoe.7okK_bNZyzF_v-bibgEY_AfBMULJizsQLdBjfCUC.e36cvI97Bm7yHVojn7OHEg&mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs201.gif",BS 10 Premium
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 group-title="BS" tvg-id="greenchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif",Green Channel
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #EXTINF:-1 group-title="BS" tvg-id="nihoneigasenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs255.gif",Nihon Eiga Senmon
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 #EXTINF:-1 group-title="BS" tvg-id="fishingvision.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs251.gif",Fishing Vision
@@ -202,6 +198,7 @@ https://arva-tky.shinori.my.id/stream/jp/cnnj?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMi
 https://arva-tky.shinori.my.id/stream/jp/bbc_news?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.RW8ax7OZUv28Og7smDwAkeOXM4qty8gD13OLDPBpSeyh-6ZjkxD51g.gzN2tdKacLJzwXoe.7okK_bNZyzF_v-bibgEY_AfBMULJizsQLdBjfCUC.e36cvI97Bm7yHVojn7OHEg&mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="tbsnews.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
 https://arva-tky.shinori.my.id/stream/jp/tbs_news?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.RW8ax7OZUv28Og7smDwAkeOXM4qty8gD13OLDPBpSeyh-6ZjkxD51g.gzN2tdKacLJzwXoe.7okK_bNZyzF_v-bibgEY_AfBMULJizsQLdBjfCUC.e36cvI97Bm7yHVojn7OHEg&mode=hls
+
 
 
 
