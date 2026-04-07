@@ -123,12 +123,12 @@ https://arva.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 https://arva.netgenx.site/stream/jp/dlife/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="toeichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs218.gif",Toei Channel
 https://arva.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="fightingtvsamurai.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/m_premium/600.gif",Fighting TV Samurai
+#EXTINF:-1 group-title="CS" tvg-id="fightingtvsamurai.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/600.gif",Fighting TV Samurai
 https://arva.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="entermeitele.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs301.gif",Entermei Tele
 https://arva.netgenx.site/stream/jp/meitele_next/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="sportsliveplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/m_premium/584.gif",Spots live plus
-https://arva.netgenx.site/stream/jp/spovts_live_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS" tvg-id="sportsliveplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/584.gif",Sport live plus
+https://arva.netgenx.site/stream/jp/sports_live_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="homedramachannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs294.gif",Home Drama Channel
 https://arva.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="channelginga.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs305.gif",Channel Ginga
