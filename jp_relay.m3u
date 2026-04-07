@@ -133,7 +133,7 @@ https://arva.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 https://arva.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="channelginga.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs305.gif",Channel Ginga
 https://arva.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="tabichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/tabi_channel/icon/basic/premium/544.gif",Tabi Channel
+#EXTINF:-1 group-title="CS" tvg-id="tabichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/544.gif",Tabi Channel
 https://arva.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="musicontv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs325.gif",Music On! TV
 https://arva.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
