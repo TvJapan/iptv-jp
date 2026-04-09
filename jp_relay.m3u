@@ -99,7 +99,7 @@ https://arva.netgenx.site/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
 https://arva.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="nittelegplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs257.gif",NTV G+
 https://arva.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="nitteleplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif",NTV Plus
+#EXTINF:-1 group-title="CS" tvg-id="nippontvplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif",NTV Plus
 https://arva.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="familygekijyo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs293.gif",Family Gekijo
 https://arva.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
@@ -137,6 +137,8 @@ https://arva.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=h
 https://arva.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="tabichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/544.gif",Tabi Channel
 https://arva.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS" tvg-id="tetsudochannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif" Tetsudo Channel
+https://arva.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="musicontv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs325.gif",Music On! TV
 https://arva.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="axn.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs311.gif",Action Channel(AXN)
