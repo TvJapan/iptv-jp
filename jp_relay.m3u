@@ -40,7 +40,7 @@ https://arva.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
 https://arva.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bs11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS 11
 https://arva.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bs12.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS 12
+#EXTINF:-1 group-title="BS" tvg-id="bs12トゥエルビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS 12
 https://arva.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="nhkbsp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BS4K
 https://arva.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
@@ -51,7 +51,7 @@ https://arva.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?&mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="wowowlive.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif",WOWOW Live
 https://arva.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?&mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs201.gif",BS 10 Premium
-https://arva.netgenx.site/stream/jp/bs_10_star_channel/stream-output.m3u8?mode=hls
+https://arva.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="jsports1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs242.gif",JSport 1
 https://arva.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="jsports2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs243.gif",JSport 2
@@ -66,8 +66,8 @@ https://arva.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
 https://arva.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="nihoneigasenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs255.gif",Nihon Eiga Senmon
 https://arva.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="ntvnews24.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs349.gif",NTV News24
-https://arva.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="BS" tvg-id="wowwowplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif",WOWOW Plus
+https://arva.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bsyoshimoto.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-65406-179-400x400.png",BS Yoshimoto
 https://arva.netgenx.site/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="fishingvision.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs251.gif",Fishing Vision
@@ -99,6 +99,8 @@ https://arva.netgenx.site/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
 https://arva.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="nittelegplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs257.gif",NTV G+
 https://arva.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS" tvg-id="nitteleplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif",NTV Plus
+https://arva.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="familygekijyo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs293.gif",Family Gekijo
 https://arva.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="mondotv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs295.gif",Mondo TV
@@ -169,6 +171,8 @@ https://arva.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
 https://arva.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="animalplanet.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs341.gif",Animal Planet
 https://arva.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS" tvg-id="ntvnews24.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs349.gif",NTV News24
+https://arva.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="cnnj.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs354.gif",CNNj 
 https://arva.netgenx.site/stream/jp/cnnj/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs353.gif",BBC News  
