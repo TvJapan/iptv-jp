@@ -131,6 +131,8 @@ https://arva.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=
 https://arva.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="sportsliveplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/584.gif",Sport live plus
 https://arva.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS" tvg-id="igoshogichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs363.gif",Shogi Channel
+https://arva.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="homedramachannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs294.gif",Home Drama Channel
 https://arva.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="channelginga.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs305.gif",Channel Ginga
