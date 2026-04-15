@@ -68,13 +68,13 @@ https://living9.jpantv.live/jp45/playlist.m3u8?token=QA3APiYwbB
 https://living9.jpantv.live/jp36/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="wowwowplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif",WOWOW Plus
 https://living9.jpantv.live/jp33/playlist.m3u8?token=QA3APiYwbB
-#EXTINF:-1 group-title="BS" tvg-id="bsyoshimoto.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-65406-179-400x400.png",BS Yoshimoto
+#EXTINF:-1 group-title="BS" tvg-id="bsyoshimoto.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png",BS Yoshimoto
 https://living9.jpantv.live/jp38/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="fishingvision.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs251.gif",Fishing Vision
 https://living9.jpantv.live/jp44/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="disneychannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs256.gif",Disney Channel
 https://living9.jpantv.live/jp46/playlist.m3u8?token=QA3APiYwbB
-#EXTINF:-1 group-title="BS" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png",Jcom BS
+#EXTINF:-1 group-title="BS" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png",Jcom BS
 https://living9.jpantv.live/jp37/playlist.m3u8?token=QA3APiYwbB
 
 #EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs254.gif",Gaora Sports
