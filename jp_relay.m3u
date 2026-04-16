@@ -27,7 +27,7 @@ https://living9.jpantv.live/jp10/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
 https://living9.jpantv.live/jp19/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="bsnippontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
-https://living9.japntv.live/jp21/playlist.m3u8?token=QA3APiYwbB
+https://living9.jpantv.live/jp21/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="bsasahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS Asahi
 https://living9.jpantv.live/jp22/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="bstbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
@@ -51,7 +51,7 @@ https://living9.jpantv.live/jp31/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="wowowlive.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif",WOWOW Live
 https://living9.jpantv.live/jp32/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="bs10プレミアム_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs201.gif",BS 10 Premium
-https://living9.japntv.live/jp35/playlist.m3u8?token=QA3APiYwbB
+https://living9.jpantv.live/jp35/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="jsports1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs242.gif",JSport 1
 https://living9.jpantv.live/jp40/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="jsports2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs243.gif",JSport 2
@@ -68,7 +68,7 @@ https://living9.jpantv.live/jp45/playlist.m3u8?token=QA3APiYwbB
 https://living9.jpantv.live/jp36/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="wowwowplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif",WOWOW Plus
 https://living9.jpantv.live/jp33/playlist.m3u8?token=QA3APiYwbB
-#EXTINF:-1 group-title="BS" tvg-id="bsyoshimoto.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png",BS Yoshimoto
+#EXTINF:-1 group-title="BS" tvg-id="bsよしもと_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png",BS Yoshimoto
 https://living9.jpantv.live/jp38/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="fishingvision.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs251.gif",Fishing Vision
 https://living9.jpantv.live/jp44/playlist.m3u8?token=QA3APiYwbB
