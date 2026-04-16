@@ -77,6 +77,8 @@ https://living9.jpantv.live/jp46/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="BS" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png",Jcom BS
 https://living9.jpantv.live/jp37/playlist.m3u8?token=QA3APiYwbB
 
+#EXTINF:-1 group-title="CS" tvg-id="skya.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs250.gif",Sky A
+https://living1.jpantv.live/jp61/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="CS" tvg-id="gaorasports.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs254.gif",Gaora Sports
 https://living1.jpantv.live/jp62/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="CS" tvg-id="atx.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif",AT-X
@@ -177,6 +179,10 @@ https://living1.jpantv.live/jp84/playlist.m3u8?token=QA3APiYwbB
 https://living1.jpantv.live/jp90/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="CS" tvg-id="animalplanet.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs341.gif",Animal Planet
 https://living1.jpantv.live/jp91/playlist.m3u8?token=QA3APiYwbB
+#EXTINF:-1 group-title="CS" tvg-id="history.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs342.gif",History
+https://living1.jpantv.live/jp88/playlist.m3u8?token=QA3APiYwbB
+#EXTINF:-1 group-title="CS" tvg-id="kntv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/657.gif",KNTV
+https://living1.jpantv.live/jp99/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="CS" tvg-id="ntvnews24.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs349.gif",NTV News24
 https://living1.jpantv.live/jp95/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="CS" tvg-id="cnnj.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs354.gif",CNNj 
