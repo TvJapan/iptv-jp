@@ -68,11 +68,11 @@ https://live.livingjtv.live/jp45/playlist.m3u8?token=M7VMdfn2WH
 https://live.livingtv.live/jp36/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="BS" tvg-id="fishingvision.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs251.gif",Fishing Vision
 https://live.livingjtv.live/jp44/playlist.m3u8?token=M7VMdfn2WH
-#EXTINF:-1 group-title="BS" tvg-id="wowowplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channelicon/basic/bs252.gif",WOWOW Plus
-https://live.jpantv.live/jp33/playlist.m3u8?token=M7VMdfn2WH
+#EXTINF:-1 group-title="BS" tvg-id="wowowplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif",WOWOW Plus
+https://live.livingtv.live/jp33/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="BS" tvg-id="disneychannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs256.gif",Disney Channel
 https://live.livingjtv.live/jp46/playlist.m3u8?token=M7VMdfn2WH
-#EXTINF:-1 group-title="BS" tvg-id="j-com-bs_jp" tvg-logo=""https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png,Jcom BS
+#EXTINF:-1 group-title="BS" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png",Jcom BS
 https://live.livingtv.live/jp37/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="BS" tvg-id="bsよしもと_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png",BS Yoshimoto
 https://live.livingtv.live/jp38/playlist.m3u8?token=M7VMdfn2WH
@@ -88,7 +88,7 @@ https://live.livingjtv.live/jp76/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="CS" tvg-id="mtv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs323.gif",MTV
 https://live.livingjtv.live/jp77/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="CS" tvg-id="mnet.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",Mnet
-https://
+https://krtv.douga.live/ch66/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="CS" tvg-id="superdramatv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/647.gif",Super Drama TV
 https://live.livingjtv.live/jp56/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="CS" tvg-id="thecinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif",The Cinema
