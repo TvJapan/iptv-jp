@@ -6,15 +6,15 @@ https://arva.netgenx.site/novid/hls/radio_stream.m3u8
 https://arva.netgenx.site/novid/hls/radio_stream.m3u8
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
-https://live.livingtv.live/jp1/playlist.m3u8?token=M7VMdfn2MH
+https://live.livingtv.live/jp1/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="joabdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK E
-https://live.livingtv.live/jp3/playlist.m3u8?token=M7VMdfn2MH
+https://live.livingtv.live/jp3/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="joaxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png",NTV
-https://live.livingtv.live/jp4/playlist.m3u8?token=M7VMdfn2MH
+https://live.livingtv.live/jp4/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="joexdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png",TV Asahi
-https://live.livingtv.live/jp7/playlist.m3u8?token=M7VMdfn2MH
+https://live.livingtv.live/jp7/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="jorxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
-https://live.livingtv.live/jp5/playlist.m3u8?token=M7VMdfn2MH
+https://live.livingtv.live/jp5/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="jotxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",TV Tokyo
 https://live.livingtv.live/jp8/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="jocxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",Fuji TV
@@ -156,7 +156,7 @@ https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="qvc.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif",QVC
 https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="gstv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif",GSTV
-https://rch01e-alive.hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="jidaigekisenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs292.gif",Jidaigeki Senmon
 https://live.livingjtv.live/jp52/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="CS" tvg-id="eiseigekijo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif",Eisei Gekijo
