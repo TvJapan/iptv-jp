@@ -108,6 +108,8 @@ https://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
 https://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="wowowplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png",WOWOW Plus
 https://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="BS" tvg-id="disneychannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png",Disney Channel
+https://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=1-15
@@ -145,8 +147,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=1-15
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=1-15
 #EXTINF:-1 group-title="BS" tvg-id="nihoneigasenmonchannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-125-400x400.png",Nihon Eiga Senmon (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=1-15
-#EXTINF:-1 group-title="BS" tvg-id="skya.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png",Sky A (Primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=1-15
 #EXTINF:-1 group-title="BS" tvg-id="fishingvision.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png", Fishing Vision (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=1-15
 #EXTINF:-1 group-title="BS" tvg-id="disneychannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png", Disney Channel (Primehome)
@@ -172,8 +172,6 @@ https://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 https://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png",Kids Station
 https://akariko.netgenx.site/stream/jp/kids_station/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="disneychannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png",Disney Channel
-https://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="cartoonnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png",Cartoon Network Japan
 https://akariko.netgenx.site/stream/jp/cartoon_network_japan/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="nittelegplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png",NTV G+
