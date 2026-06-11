@@ -89,8 +89,8 @@ https://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=h
 https://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="mnet.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",Mnet
 https://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="superdramatv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/647.gif",Super Drama TV
-https://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS" tvg-id="vparadise.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/635.gif",V Paradise
+https://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="thecinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif",The Cinema
 https://akariko.netgenx.site/stream/jp/the_chinema/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="kayopops.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs329.gif",Kayo Pops
