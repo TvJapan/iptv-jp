@@ -37,7 +37,7 @@ https://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS Fuji
 https://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bs10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png",BS 10
-https://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
+https://akariko.netgenx.site/stream/jp/bs10/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bs11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS 11
 https://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="BS" tvg-id="bs12トゥエルビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS 12
