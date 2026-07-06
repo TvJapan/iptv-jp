@@ -92,7 +92,7 @@ https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="vparadise.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/635.gif",V Paradise
 https://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="thecinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif",The Cinema
-https://haru.charandom.blog/stream/jp/the_chinema/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS" tvg-id="kayopops.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs329.gif",Kayo Pops
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kidsstation.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs330.gif",Kids Station
